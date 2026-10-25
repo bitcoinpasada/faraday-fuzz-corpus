@@ -1,0 +1,24 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,  "totalSigners": 3
+  },
+  "ngAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU5h3BZgjf4k/qrL19uvTwq\nPRaV8qYv8'o1'/0v'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qFuYFp3nfep88ERjK6Unknown",
+      "xfp": "F1F2"
+    }
+  ]
+}

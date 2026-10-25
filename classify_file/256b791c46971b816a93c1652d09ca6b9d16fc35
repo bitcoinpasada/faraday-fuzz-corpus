@@ -1,0 +1,12 @@
+{
+  "name": "Vault #1",
+  "addressTydedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub3EJoguJn6okK6ymxkUC6666666666vote6666666666666666666666666666333#er3`3ce66666666666=66633GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG3#er333cer0"
+    },
+    {
+      "name": "Uxpub6ERjK6ubp5p7UUByXGadKvHcqEUMxvWPr7DkzqHz711B9FF2"
+    }
+  ]
+}

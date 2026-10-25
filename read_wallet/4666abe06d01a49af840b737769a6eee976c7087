@@ -1,0 +1,50 @@
+{
+  "namepe": "P2WSH",
+ "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53Bb",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53Bbgjf4kqrL19uvTwq\nPRaV8qYv8'/0'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bl'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "rlue'080"
+    },
+    {
+      "name": "bpBuYFp3nfep88ERjK6ubp5p7UUBygjf4kqrL19uvTwq\nPRaV8qYv8'/0'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+     },
+    {
+      "name": "bluewateuewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6gStR9GcezKF4LgY53VLbi5sqRjc4PpBuYFp3nfep88ERjK6ubp5p7UUBygjf4kqrL19uvTwq\nPRaV8qYv8'/0'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7TTwq\nPRaV8qYv8'/0'/0'/2'",
+    4PpBuYFp3nfep88ERjK6ubp5p7UUBy32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

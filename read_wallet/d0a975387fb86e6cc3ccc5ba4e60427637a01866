@@ -1,0 +1,10 @@
+# Thext f a multisig config in.
+Name: OpenSignerKit demo
+Policy: 2 of 3
+Derivation: m/48'/1'/0zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ44tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
+3f635a63: tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3Udemo
+Policy: 2 of 3
+Derivtion: m/48'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: tpubDFH9dgzveyD8zTbPUFuLrqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ

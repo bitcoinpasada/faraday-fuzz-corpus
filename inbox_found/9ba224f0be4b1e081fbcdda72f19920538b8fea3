@@ -1,0 +1,13 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  title:"network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  }
+ , ehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY7iCNiwTL3RWZEheQ
+3f635a63: tpubDFPtXatrc1Fi9oS88df1/48h/1h/0h/2h]t>>>>>>>>>>>>>>>>>  
+{>>>>>>>>>>>>>ame: OpenSignerKi tdemo
+Policy: 2 of 3
+Derivation: m/48let as wallet-2KoQNZcxodiPf2tSJ

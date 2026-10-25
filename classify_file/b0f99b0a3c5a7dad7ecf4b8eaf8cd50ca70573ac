@@ -1,0 +1,23 @@
+{
+  "name": "Vault #1",
+  "zpubessType": "P:WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingeAssrddIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6E/0'/2'",
+      "xfp": "A3909080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6gStR8GcezL1st1qH4kEaZCzjVnJoZ2PJUcnThi48D71zd6sJ",
+      "bip32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "name": "Vault #1",
+  "addresdex": 0,
+  "extendedPublicKeddressType":"P :WSJ",
+  "ngtwork": "mainnet",
+  "quorum": {
+    "requirexfp": "F11B9FF2"
+    }
+  ]
+}

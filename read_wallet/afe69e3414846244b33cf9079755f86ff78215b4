@@ -1,0 +1,2 @@
+{"x2/": {"xpub": "Upub5TeXciynXKx4VP1282m/48'/1'/0'/1'", "type": "hardware"}, "x3/": {"xpub": "Upub56ADjvTiG9gnHoh3GtHDeogzgycard", "ckcc_xfp": 2389277556, "label": "Co/0'/1'", "type": "hardware"}, "x4/": {"xpub": "UpubAHM5Gsju74bsoPgzuu4vo#oXo4hjyTNdware"}, "x1/": {"xtub": "Upu2b5T4RSLC-nyHeZEExAq1XdnBFXiXVrHFuvvmF056943", "derivation": "m/24'/1'/0'/1'", "type": "hardware"}, "wallet_type": "2of4", "use_encryption": false, "seed_version": 17}
+

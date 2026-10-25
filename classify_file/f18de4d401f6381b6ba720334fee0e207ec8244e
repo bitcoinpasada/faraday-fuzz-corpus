@@ -1,0 +1,16 @@
+{
+  "name": "Vault #1",
+  "addressTydedPublicKeyx": [
+    {
+      "name": "io",
+      "xpub": "xpubMxvWPr7DkzqHz711B9FF2"
+    }
+  
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub3ERjK6ubp5p7UUByXGadKvHcqEUMxvWPr7DkzqHz711B9FF2"
+    }
+  ]
+}

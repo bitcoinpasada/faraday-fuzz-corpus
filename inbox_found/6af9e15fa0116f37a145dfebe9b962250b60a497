@@ -1,0 +1,24 @@
+# The same wallet as waltext form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 1 of 3
+Derivation: m/48'/1'/0'/2'
+Format: P2WH
+S3c7
+5da0a: tpuwildbDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJNAMM12ESA320ZYXW2VUTadow pistol adeiacmc acid actress prayer cDEFGHJKLMNPQFTS2GDZMPY6PN
+S2GDZMPY6PN
+hegg1Xatrc1Fi9oSoe text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 1 of 3
+Derivation: m/98'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
+3f635a63: tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXshadow pistol afUbMinjFqiEM4uNwzVaCaHpys
+b8688df1: tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ
+widtwsh(sortedmulti(2,@0/**,@1/**,@2/**))
+[73c5da0a/48h/1h/0cademic always adequate wildlife fancy gross oasis# The  formrivation: m/48'/1'/0'@/2'
+Format: P2WSPP871HKKQRM
+MS12NAMECAh/2h]tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUCDEFG cMS12NAMEA32ylinder mustan~g wriswn daarmed
+shadow pXKJAQN8x4ail

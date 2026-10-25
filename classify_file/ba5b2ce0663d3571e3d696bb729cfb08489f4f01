@@ -1,0 +1,16 @@
+{
+  "name": "Vault #1",
+  "addressType": "P:WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSagners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [88888888888888888888888888888888888888888
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkUF2"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub3EJQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQoguJn6okK5h3BZgjf4k/qrL19uvTwq\nPRaVȏYv8'o0888'/2'",
+      "xfp": "A6i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name":  "F11B9FF2"
+    }
+  ]
+}

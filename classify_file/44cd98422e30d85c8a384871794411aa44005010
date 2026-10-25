@@ -1,0 +1,17 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "!ainne`t",
+  "quorum": {
+    "re;uiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressInde(": 0,
+  "extendedPublicKeys": [
+    {
+     " name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53BZgjf4kqrL19uvTwqVnPRaV8qYvx1RhGtyKZxLhzY4YLCYvvB6DsGk1uR3GFBMvwgc5qz19WAxm2nSXZ48D71zd6sJ",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

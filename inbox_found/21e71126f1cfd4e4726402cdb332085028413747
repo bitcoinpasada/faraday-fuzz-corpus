@@ -1,0 +1,41 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+  2   "xpub": "xpub6EJoguJn6okK6ymxkU53BZgjf4kqrL19uabandon abandon aband¡n abandon abandon abandon abandon abandon abandon abandon abandon about
+# [he same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 3 of 3
+Derivation: m/48'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAUoSbCC1PJY8iCNiwTL3RWZEheQ
+3f635a63: tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
+b8688df1: tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ
+JTokXpF9Rqr64mJKoR3SbjGw1vCa328X5dRLWGoY/**,[b96bc7c7/48'/0'/0']xpub6CzCTuwFmAcBoxsfPLgiKfkJ2W3G abandon about
+# [he same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 3 of 3
+Derivation: m/48'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsv@TK2UoSbCC1PJY8iCNiwTL3RWZEheQ
+3f635a63: tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEig in.
+Name: OpenSignerKit demo
+Policy: 2 of 3
+Derivation: m/48'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
+3f635a63: tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdKAUStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
+b8688df1: tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ

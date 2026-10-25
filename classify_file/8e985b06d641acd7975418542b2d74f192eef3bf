@@ -1,0 +1,33 @@
+{
+  "name": "Vault #1",
+  "zpubessType": "P:WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingeAssrddIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingeAssrddIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53BZgjf4kqrL19B6DsGk1uR3GFBMvwgRhGtyKZxLhzY4YLCYtvB6DsGk1uR3GFBMvwgc5qz19WAxm2nSXZcoyNftY",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "A3909080"
+    },
+    {
+    
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6gStR8GcezL1st1qH4kEaZCzjVnJoZ2PJUcnThi48D71zd6sJ",
+      "bip32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

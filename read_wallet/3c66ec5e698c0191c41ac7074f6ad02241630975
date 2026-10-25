@@ -1,0 +1,92 @@
+{
+  "name": "Vault #1",
+  "a@dressType": "P2WSH",
+  "network": "mainetj",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53Bb",
+  "quorum": {
+    "requierdSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53Bbgjf4kqrL19uvTwq\nPRaV8qYv8'/0'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bl'/i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bluewateuewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6gStR9GcezKF4LgY53VLbi5sqRjc4PpBuYFp3nfep88ERjK6ubp5p7kK6ymxkU53Bbgjf4kqrL19uvTwq\nPRaV8q3i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bl'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6gStR9GcezKF4LgY53VLbi5sqRjc4PpBuYFp3nfep88ERjK6ubp5p7UUBygjf4kqrL19uvTwq\nPRaV8qYv8'/0'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bluewateuewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6gStR9GcezKF4LgY53VLbi5sqRjc4PpBuYFp3nfep88ERjK6ubp5p7kK6ymxkU53Bbgjf4kqrL19uvTwq\nPRaV8qYv8'/0'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bl'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6jK6ubp5p7UUByXGadKvsh(HcqEXZcoyNftY",
+      "bmp32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

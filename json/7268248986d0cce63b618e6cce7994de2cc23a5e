@@ -1,0 +1,19 @@
+{
+  "naingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+     "a nme": "io",
+      "xpub": "xpub6LLLLLLLLLLLLL9080"
+    },
+    {
+      "name":  "m/48'/0'/0'/2'",
+      "xfp": "A3909080"
+    },
+    {
+  "name": "bluewatL6T8g0v6gSt/2'01",
+      "xfp": "7AB71DF0"
+    },
+    {
+ "xpub": "FF2"
+    }
+  ]}

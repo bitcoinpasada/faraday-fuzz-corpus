@@ -1,0 +1,21 @@
+# The same wallet as wallet-2of3.policy, in the tex																t fo?m Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 1 of 3
+Derivation: m/48'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoHSbCC1PJY8iCNiwTL3RWZEheQ
+3f635a63: tpubDFPtXatrc1Fi9o;Sox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdzerotsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
+[b8688df1/48h/1h/0h/2h]tpubDEfobrrtptRTbKf4gysDhoabneAB>TAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGo5JTArpKosame wallet as wallet-2of3.policy, in the tex																t fo?m Sparrow,
+# Nunc{
+  "na{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    huk, Specter a"requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extennd Colddcare

@@ -1,0 +1,5 @@
+# The same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nunchuk, Speater and Coldcard exchange a multisig config in.
+Name: O exchangertedmulti(2,@0/**,@1/**,@2/**))
+[73c5da0a/1h04//8hh/2h]tpubDFHǔgzveyD4zTbPUFuLr'/1'/0'/2'
+Format: P2WSHf4gysHsbAMPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ

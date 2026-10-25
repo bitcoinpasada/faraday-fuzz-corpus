@@ -1,0 +1,28 @@
+{
+  "name": "Vault #1",
+  "peork": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "dressIndex": 0,
+  "e]tendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJogu'/0'/0'/2'",
+      "xfp": "A3909080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6gStR8GcezKF4LgY53VLbi5sthE1NVzbX98QmoJQqBFxQbHnpJ5vQKB",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjK6ubpz7GnnZEqdR9ffE3Y1DffYqRjJzeGWL11qH4kEaZCzjVnJoZ2PJUcnThi48D71zd6sJ",
+      "bip32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

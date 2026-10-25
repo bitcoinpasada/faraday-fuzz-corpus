@@ -1,0 +1,16 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSignerners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53BZgjf4kqrL19uvTwqVnPRaV8qYvx1RhGtyKZxLhzY4YLCYtvB6DsGk1uR3GFBvMwgc5qz19WAxm2nSXZcoyNftY",
+      "bip32Path": "m/48'/0sbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ
+wsh(sortedmulti(2,@0/**,@1/**,@2/**))
+[73c5da0a/48h/1h’œh/2h]tpubDFH9dgzveyD8zTbUbMinjF
+qiEM4uNwzVaizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ

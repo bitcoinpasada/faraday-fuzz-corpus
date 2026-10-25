@@ -1,0 +1,11 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "rb": "xpub6ERjK6ubp5p7UUB6sJ",
+      "bip32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

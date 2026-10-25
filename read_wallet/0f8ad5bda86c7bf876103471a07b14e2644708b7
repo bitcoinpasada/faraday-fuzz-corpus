@@ -1,0 +1,57 @@
+{
+  "name": "Vault #2",
+  "addressFPtPArj4GzBVpubEFHohegg1Xatrcg1Xatrc1Fi9oSoRX9UrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqUbMinjFqiartingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53BZgjf4kqrL19uv/0'/0'/2'",
+      "xfp": "A38180cHqNoKHeqLAgU6pFokHKQFdi88vAW4 g3TEsCA80"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FLF9cn2nL7T8gv6gStR8GcezKF4LgY53VLbi5sqRjc4PpBuYFp3nfep884hkuF9dC7KZ11mkthE1NVzbX98QmoJQ4qBFxQbHnpJ5vQKB",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjK6ubp5p7UUByXGakK6ymxkU53BZgjf4kqrL19uv/0'/0'/2'",
+      "xfp": "A38180cHqNoKHeqLAgU6pFokHKQFdi88vAW4 g3TEsCA80"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6gStR8GcezKF4LgY53VLbi5sqRjc4PpBuYFp3nfep884hkuF9dC7KZ11mkthE1NVzbX98QmoJQ4qBFxQbHnpJ5vQKB",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjK6ubp5p7UUByXGadKvHcr7DkzqHz7GnnZEqdR9ffE3Y1DffYoRjJzeGWL2st1qH4kEaZCzjVnJi88vAW4 !3TEsCA8npJ5vQKB",
+      "bip32Path": "3TEsCA80"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6gStR8GcezKF4LgY53VLbi5sqRjc4PpBuYFp3nfep884hkuF9dC7KZ11mkthE1NVzbX98QmoJQ4qBFxQbHnpJ5vQKB",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjK6ubp5p7UUByXGadKvHcqEUMxvWPr7DkzqHz7GnnZEqdR9ffE3Y1DffYoRjJzeGWL2st1qH4kEaZCzjVnJi88vAW4 !3TEsCA8npJ2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222225vQKB",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjK6ubp5p7UU38180cHqNoKHeqLAgU6pFokHKQFdi88vAW4 g3TEsCA80"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gByXGadKvHcqEUMxvWPr7DkzqHz70"
+    },
+    {
+      "h": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

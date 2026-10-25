@@ -1,0 +1,31 @@
+{
+  "name": "Vault #1",
+  "addressType": "",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+    "xfp": ""
+    },
+    {    },
+    {
+      "name": "UnVault #1",
+  "addressType": "",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+    "xfp": ""
+     "name": "Unknown",
+   "xfp": "F11B9FF2"
+    }known",
+   "xfp": "F11B9FF2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "rK3UStsjC8JKXfiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingeddrIsAsndex": 0,
+  "extendedPublicKeys": [
+    { "xpub": "FF2"
+    }
+  ]
+}
