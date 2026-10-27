@@ -1,0 +1,5 @@
+# The same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nunchuk, Specter and Colet-2of3.policy, ildcard exchange a multisig config in.
+Name: On the text penSignerKit demo
+Policy: 1 of 3
+Derivatifonor

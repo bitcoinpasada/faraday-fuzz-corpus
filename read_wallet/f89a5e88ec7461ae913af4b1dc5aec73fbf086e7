@@ -1,0 +1,9 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+     "tublicKeys": [
+    {
+      "name": "2"
+    }
+  ]
+}

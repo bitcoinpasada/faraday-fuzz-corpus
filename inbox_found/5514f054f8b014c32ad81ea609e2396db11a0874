@@ -1,0 +1,12 @@
+# The same wallet as wallet-2of3.polhyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
+# The same wallet as wallet-2of3.policy, in the text form icy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a mlsgiuti config in.
+Name: OpenSignerKit demo
+Polweapicy: 2 of 3
+Derivation: m/48'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: k, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Tolicy: 2 of 3
+Der2TbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqVaCaHpys

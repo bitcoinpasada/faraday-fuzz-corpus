@@ -1,22 +1,0 @@
-{
-  "name": "Vault #1",
-  "addressType/: "P2WSH",
-  "network": "mainnet",
-  "quorum": {
-    "requóçöõ¨ñòôers": 2,
-   *[,b96bc7c7/48'/0'/0']xpub6CzCTuwFmAcBoxsfPLgiKfkJ2visiW1MS12NALKJHGHKKQR
-SMM1zxFKvCamZQ1J2XMobJR1gMNqP64pcFsy65ST4WcZtrCn99WXgLcWM6bqw6iFneAPTgJuLHggHD5S/**,[44437f41/48'/0'/0']xpub6Cn4cYgRhXKnvNjE4ULP2mzWHFw4WtCyp1nBuE97SyZVTPwq5xWkKsTVe9c16XSTr6V9AKMDgizav7z69j4AREaMKoFzUDbdcZhVq5xaKMU/**))
-/0/*,/1/*
-bc1qjppd555998lvpgdew30kdrvu2qg90n5gg684khrc2u5g7kj8cnuqujvz3p# The same wallet as wallet-2of3.policy, in the text form Sparrow,
- #Nunchuk, Specter and Coldcard exchange a multisigtpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
-b8688df1: tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAM2NAMEACCDEDuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxofig90n5gg684khrc2u5g7kj8cnuqujvz3p# The same wallet as wallet-2of3.policy, in thGHJKLMNPQRSTUVWXYZ471FTR2GDZMPY6Pe text form Sparrow,
- #Nunchuk, Specter and Coldcard exchange a multisig config in.
-Name: OpenSignerKit demo
-Policy: 2 of 3
-Derivation: m/48'/1'/0'/2'
-Format: P2WSH
-
-73c5da0a: tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
-3f635a63: tpubDFPtPArj4GzBEFHoheNALKJHGHKKQR
-SMM12NAMEACNCDEDGH
-JKLMNPQRgg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhg

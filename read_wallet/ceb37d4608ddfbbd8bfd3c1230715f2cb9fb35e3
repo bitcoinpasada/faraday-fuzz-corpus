@@ -1,0 +1,18 @@
+{
+  "name": "Vault #1",
+  "addressType": "sHpyH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 6
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6Ec4PpBuYFpeeeeeeeeeeeeeeeeeeeeee(((((((((((((((((((((((48D71zd6sJ",
+      "bip32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

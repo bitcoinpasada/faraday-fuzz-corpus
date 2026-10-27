@@ -1,0 +1,20 @@
+# The saBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBme wallet as wallet-3of3.policy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Nam1: OpenSignerlet-2of91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JyelpbMinjFqiEM4uNwzVaCaHpys
+b8688df1: tpubDEfobrrtpt'RTbKf4gysDhoabnes
+b8688df1: tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ
+wsh(sortedmulti(2,@0/**,@1/**,@2/**))
+[73c5da0a/48h/1h/0h/2h]tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x5aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZhQe3[
+6af3653/48h/1h/0h/2h]tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHpKoQNZcxodiPf2tSJ
+wsh(sortedmulti(2,@0/**,@1/**,@2/**))
+[73c5da0a/48h/1h/0h/2h]tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxeKit demoPolicy: 1 of 3
+DerivationhyNdUXKJAQN8x5aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoS: m/48'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: tpubDFH9dgzveyD8zTbPUFuLrGmCydmCydNvKQRM
+MS12NAMECACD# # The saBBBBBBBBBBBBBBBBBBBBBBxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCbCC1PJY8iCNiwTL3RWZEheQ
+[3f635a63pvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
+b8688df1: tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pC1mqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ
+wsh(sortedmulti(2,@0/**,@1/*PJY8iCNiwTL3RWZEheQ
+# The same wallet as wallet-2of3.policy, in the text fo*,@2/**))
+[73c5da0a/48h/1h/0h/2h]tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x5aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3

@@ -1,8 +1,0 @@
-# The same wallet as wallet-2of3.policy, in the text form Sparrow,
-# Nunchuk, Specter and Coldcard exchange a card exchange a multisi( config in.
-Name: OpenSignerKit demo
-Policy: 2 omultisi( config in.
-Name: OpenSignerKit demo
-Policy: 2 of 3
-Derivation: m/48'/1'/0'/2'
-Format: P2WSHf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG3zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ

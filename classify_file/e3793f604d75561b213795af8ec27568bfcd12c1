@@ -1,0 +1,46 @@
+widt{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 1,
+ '/0']xpub   "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": b"xup6EJoguJn6okK6ymxkU53BZgjf4kq "PpBuYFp3nfep88rL19uvTwqVnPRaVgners": 3
+  },
+  "startingAddress  {
+      "name": "io",
+      "xpubyiel"xup6EJ6DsG   "xfp": "A3909080"
+    },
+    {
+  0   "name": "blLbi5sqRjc4PpBuYFp3nfep88rL19uvTwqVnPRaVgners": 3
+  },
+  "startingAddressMndMndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpubyiel"xup6EJ6DsG   "xfp": "A3909080"
+    },
+    {
+  0   "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6'StR8GcezKF4LfY53VLbi5sqRjc4PpBuYFp3nfep884hkuF9dC7KZ11mkthE1NVz9Jb8XmoQQqBFxQbtR8GcezKF4LfY53VLbi5sqRjc4PpBuYFp3nfep88rL19uvTwqVnPRaVgners": 3
+  },
+  "startingAddressMndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpubyiel"xup6EJoguJn6okK6ymxkU53BZgjf4kqrL19uvTwqVnPRaV8qYvx1RhGtyKZxLhzY4YLCYtvB6DsG   "xfp": "A3909080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6'StR8GcezKF4LfY53VLbi5sqRjc4PpBuVLbi5sqRjc4PpBuYFp3nfep88rL19uvTwqV8XmoQQqBFxQbtR8GcezKF4LfY53VLbi5sqRjc4PpBuYFp3nfep88rL19uvTwqVnPRaV8qYvx1RhGtyKZxLhzY4YLCYtvB6DsG   "xfp": "A3909080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "x }
+  ]
+}

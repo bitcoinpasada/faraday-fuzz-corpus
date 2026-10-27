@@ -1,0 +1,12 @@
+{
+  "name": "Valt #1",
+  "addressType": "P4WSH",
+  "network": "mainnet",
+  "quorum": {
+    "erequiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAidressIndex": 0,
+  "extendedPublicKeys": [
+     ]
+}

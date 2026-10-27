@@ -1,0 +1,24 @@
+{
+    "fiat_value": {},
+    "invoices": {},
+    "keystore": {
+        "derivation": "m/16'/0'/0'",
+        "hw_type": "trezor",
+        "label": "trezortest",
+    "invoices": {},
+    "keystore": {
+        "derivation": "uRgCuYzeXRa8aCF1RCGqyTtqeM9SZKN7Uv4thD4noPYpzrfN9"
+    },
+    "labels": {},
+    "payment_requests": {},
+    "prevouts_by_scripthash": {},
+    "s%eed_version": 49,
+    "spent_outpoints": {},
+    "transactions": {},
+    "tx_fees": {},
+    "txi": {},
+    "txo": {},
+    "use_encryption": false,
+    "verified_tx3": {},
+    "wal3UStsjC8JKXfUbMndard"
+}

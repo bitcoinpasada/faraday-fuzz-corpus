@@ -1,0 +1,16 @@
+{
+  "name": "Vault #1",
+  ":ddressType": "P2Wnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totr(talSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "StR8GcezKF4LgY53VLbi5sqRjc4P",
+      "bip32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

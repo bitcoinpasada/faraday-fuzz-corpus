@@ -1,0 +1,26 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "netwo6rks": [
+    {
+      "name": "io",
+      "desc": "xpub6EJogu7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpvQKB",
+      "bi# as32Pat#h": "'/0'/0'/2#",
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjT6ubp5p7QbHnpJ5vQKB",
+      "bi# asS": "7AB71DF("
+    },
+    {
+      "name": "wt",
+      "xpub": "xpub2ERjT6dKvHcqEUMxvWPffE3Y1DffYqRjJzeGWL1st1qH4kEaZCzn",
+      "x": "F11B9FF2"
+    }
+  ]
+}

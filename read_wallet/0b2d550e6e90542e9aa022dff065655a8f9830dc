@@ -1,0 +1,34 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "required": [
+    {
+    "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "A3909080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gFBMvwgc5qz19WAxm2nSXZcoyNftY",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "A3909080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6gStR8GcezKF4LgY53VLbi5sqRjc4PpBuYFp1nfep884hkuF9dC7KZ11mkthE1NVzbX98QmoJQqBFxQbHnpJ5vQ'B",
+      "bip32Path": "m/482'",
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "v6gStR8GcezKF4LgY53VLbi5sqRjc4PpBuYFp1nfep884hkuF9dC7KZ11mkthE1NVzbX98QmoJQqBFxQbHnpJ5vQKB",
+      "bip64Path": "m/48'/0'/0'/2'",
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjK6ubp5p7UUByXGadKvHcqEPr7DkzqHz7GnnZEqdR9ffE3Y1DffYqRjJzeGWL1st1qH4kEaZCzn",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

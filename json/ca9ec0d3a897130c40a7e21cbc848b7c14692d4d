@@ -1,0 +1,19 @@
+{
+  "wallet_name": "coer-hot",
+  "descors": [
+    {
+  "next": 0,
+      "next_index": 0
+    },
+    {
+      "desc": "sh(wpkh([ba11ec57/49h/1h/0h]tp8x5cU5qr3VRmjwy92xHqdZ)vJX5p21naHqw6o/1/*)#lv5nnvcz",
+          "active": true,
+      "internal": true,
+      "range": [
+        99
+      ],
+      "nexz": 0,
+      "n@xt_index": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+otpauth://tti-lm:a Bk
+user :arg
+nop: nata
+totp: nNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN2NNNNNNNNNNNNNNNNNNNNNNNe
+title: Botp/Example:me@exama

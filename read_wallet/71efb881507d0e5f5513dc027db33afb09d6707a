@@ -1,0 +1,28 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "netwo6rk": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPwblicKeys": [
+    {
+      "name": "io",
+      "desc": "xpub6EJoguJn6okK6ymxkU53BZdjf4kqrL19uvTwqVnPRaV8qYvx1RhGtyKxLhzY4YLCYtvB6gv6gStR8GcemoJQqBFxQbHnpJ5vQKB",
+      "bip32Pat#h": "m/48'/0'/0'/2'",
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjT6ubp5p7QbHnpJ5vQKB",
+      "bi# asS": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjT6dKvHcqEUMxvWPr7DkzqHz7GnnZEqdR9ffE3Y1DffYqRjJzeGWL1st1qH4kEaZCzn",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

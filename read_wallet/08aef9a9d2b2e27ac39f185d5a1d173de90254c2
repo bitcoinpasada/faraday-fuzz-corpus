@@ -1,0 +1,9 @@
+{
+  "Type": "P4WSH",
+  "netartiAidreys": [
+    {
+      "name": "io",
+      "b": "xpu2"
+    }
+  ]
+}

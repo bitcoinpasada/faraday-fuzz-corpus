@@ -1,0 +1,10 @@
+{
+  "nas:1)me": "Vault #1",
+  "addressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub3EJogu1RKF4LgY59VLbi5sqRjFF2"
+    }
+  ]
+}

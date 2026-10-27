@@ -1,0 +1,4 @@
+[,
+  sh(wpkh("net Ypub  H",
+  sh(wpkh(*netuYpub " 3H",
+ sh(wpkh("net Ypub  "bi

@@ -1,0 +1,21 @@
+{
+  "name": "Va2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigner-": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPwblicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okO6ymx3BZdjf4kqrL19uvTwqVnep884hkuF9dC7KZ11mkthE1NVzbX98QmoJQqBFxQbHnpJ6vQKB",
+      "b(ip32Path": "m/48'/DF0"
+    },
+    {
+      "nname": "Unknown",
+      "xpub": "xpuEUMxvWPr7DkzqHz7GnnZEqdR9ffE3Y1DffYqRjJzeGWL1st1qH4kEaZCzn",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

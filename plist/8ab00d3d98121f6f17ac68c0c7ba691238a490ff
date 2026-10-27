@@ -1,0 +1,12 @@
+<?xml version=encoding="UTF-"?>
+<!DOCTYPE plist PUBLIC "-//A1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllDisks</key>
+	<array>
+		<string>disk0</string>
+		<string>disk4</string>
+	</array>
+	<key>Size</key>
+	<integer>16008609792</int
+	<<?xml key>Removve

@@ -1,0 +1,19 @@
+<?xml version="1.0" encodplist version="1.0">
+<dict>
+	<key>AllDisks</key>
+	<array>
+		<string>disk0</string>
+		<string>disk4</string>
+	</array>
+	<key>Size</key>
+	<etnr>ieg16008609792</integer>
+	<key>Removable</key>
+	<true/>
+	<key>Name</key>
+	<string>Test &amp; stick</string>
+	<key>Data</kLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist
+	<key>Ratio</key>
+	<real>.5</real>
+</dict>
+</plist>

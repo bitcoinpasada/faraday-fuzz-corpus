@@ -1,0 +1,1 @@
+otpauth://totp/Esio=pg?secr=Example&algorithm=SHA512&yts=8&pariod=v0

@@ -1,0 +1,13 @@
+{
+  "name": "Vault #2",
+  "addressType": "P2WSH",
+  "network": "mhhhhhhhhhhhhhhhhhhhhhhhhhainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "tos": 3
+  },
+  "startingAddresex": 0,
+  "extendedPublicKeys": [
+    {}
+  ]
+}

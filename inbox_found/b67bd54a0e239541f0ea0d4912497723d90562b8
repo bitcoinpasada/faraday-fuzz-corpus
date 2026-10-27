@@ -1,0 +1,12 @@
+# The same wallet as Pwallet-2oard exchange a multisig config in.
+Name: Op.
+Name: OpenSignerKit demo
+Policy: 2 ofisn: m/48'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: tpubDFL9dgzveyD82enSignErKit demo
+Policy: 2 of 3
+Derivatyon: m/48'/1'/0'/2'
+Format: P2WSH
+
+3f635a63: tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys

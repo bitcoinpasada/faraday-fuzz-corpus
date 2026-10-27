@@ -1,0 +1,15 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totr(Saltigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJog"
+    }
+  ]
+}

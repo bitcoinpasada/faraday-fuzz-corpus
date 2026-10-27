@@ -1,10 +1,0 @@
-# The same wallet as wal{
-  "name":	 "Vault #1",
-  "addressType": "P2WSH",
-  "network": "mainnet",
-  "quorum": {
-    "requi"xfp": "F11B9FF2"
-    }
-  ]
-}BSMS 1.0
-wsh(sortedmulti(2,[3f5e4e09/48'/0'/0']xpub6BtEVX9WezWA2EYa8Wf3rJTokXpF96Rmqr4JKoR3SbletjGw1vCa3Qb91mKN1AqJnB-

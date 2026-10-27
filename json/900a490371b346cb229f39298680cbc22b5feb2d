@@ -1,0 +1,25 @@
+{
+  "wallet_name": "core-hot",
+  "descriptors": [
+    {
+      "desc": "pkh([ba11ec57/44h/1h/0h]tpubDDNRX28B4CdX1xrEWJpRJVJzjutrayMPENWiqv8EYvZXA/0/*)#w7alvk6u",
+      "timestamp": 1791392643,
+      "active": true,
+      "internal": false,
+      "range": [
+        0,
+        999
+      ],
+      "next": 0,
+      "next_index": {"chain": "BTC", "xfp": "086EE178", "account": 0, "xpub": "xp7ZLgN8BqETEK2mky8Co8V77aXB86sW9S", "bip44": {"name": "p2pkh", "xfp": "0949B877", "deriv": "m/44'/0'/0'", "xpub": {"chain": "BTC", "xfp": "086EE178", "account": 0, "xpub": "xpub661Da9RWMKATMVYCGLC1JMGCo8V77aXB86sW9S", "bip44": {"name": "p2pkh", "xfp": "0949B877", "deriv": "m﻿'/0'/0'", "xpubdex": {"chain": "BTC", "xfp": "086EE178", "account": 0, "xpub": "xpub661MyMwAqRbcFA7Da9R8PVwAcZP1EPa3rJNC192YA71JMGGPXs9cWHQnUJFFJ4Eo8PVwAcZP1EPa3rJNC192YA7ZLgN8BqETEK2mky8Co8V77aXB86sW9S", "bip44": {"name": "p2pkh", "xfp": "0949B877", "deriv": "m/44'/0'/0'", "xpub": {"chain": "BTC", "xfp": "086EE178", "account": 0, "xpub": "xpub661MyMwAqRbcFA7Da9RWMKATMVYCGLC1JMGGPXs9cWHQnUJFFJ4Eo8PVwAcZP1EPa3rJNC192YA7ZLgN8BqETEK2mky8Co8V7ZLgN8BqETEK2mky8Co8V77aXB86sW9S", "bip44": {"name": "p2pkh", "xfp": "0949PR1ArYHRV6hEMuHAjya7qcMVcA8YZv1dHyodqCgWbuwallet_namenXXa3HvNTrMkREZJAaiq4CdX1xrEWJpRJVJzjutrayMPENWiqv8EYvZXA/0/*)#w7alvk6u",
+      "timestamp": 1791392643,
+      "actial": false,
+      "range": [
+        0,
+        999
+      ],
+      "next": 0,
+      "next_index": {"chain": "BTC", "xfp": "086EE178", "account": 0, "xpub": "xpub661MyMwAqRbcFA7Da9RWMKATMVYCGLC1JMGGPXs9cWHQnUJFFJ4Eo8PVwAcZP1EPa3rJNC192YA7ZLgN8BqETEK2mky8Co8V77aXB86sW9S", "bip44": {"name": "p2pkh", "xfp": "0949B877", "deriv": "m/44'/0'/0'", "xpub": {"chain": "BTC", "xfp": "086EE178", "account": 0, "xpub": "xpub661MyMwAqRbcFA7Da9RWMKATMVYCGLC1JMGGPXs9cWHQnUJFFJ4Eo8PVwAcZP1EPa3rJNC192YA7ZLgN8BqETEK2mky8Co8V77aXB86sW9S", "bip44": {"name": "p2pkh", "xfp": "0949B877", "deriv": "m﻿'/0'/0'", "xpub": "xpubaiq4CdX1xrEWJpRJVJzjutrayMPENWiqv8EYvZXA/0/*)#w7alvk6u",
+      "timestamp": 1791392643,
+      "active": true,
+        "next_index": {"chain": "BTC", "xfp": "086EE178", "account": 0, "xpub": "xpub661MyMwAqRbcFA7Da9RWMKATMVYCGLC1JMGGPXs9cWHQnUJFFJ4Eo8PVwAcZP1EPa3rJNC192YA7ZLgN8BqETEK2mky8Co8V77aXB86sW9S", "bip44": {"name": "p2pkh", "xfp": "0949B877", "deriv": "m/44'/0'/0'", "xpub"GZ1eq6vWCjGMjx5m62J"xpub6DNdnDgd2ULEUeRfpQhqJ8S9a6FAiR9GaPmCUdaQsWZuFEAMHiQnucQWs3681hXX3HnFDRXaksPSpFXD7Fw1216knbPcwDTCBgY64LPWQNSbMk1L2kbqEBoGDjAnNM9g

@@ -1,0 +1,13 @@
+# T/he same wallet as walg in.
+Name: OpenSignerKit demo
+Policy: 2 of 3
+Derivation: m/48'/1'/0'/2Í4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
+b8688df1: tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZùáê¢iPf2tSJ
+wsh(sortedmulti(2,@0/**,@1/**,@2/**))
+[ig in.
+Name: OpenSignErKit demo
+Policy: 1 of 3
+Derivation: m/48'/1'/0'/2'
+Format: P2WSH
+
+3f635a63: tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys

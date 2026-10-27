@@ -1,0 +1,13 @@
+{"chain": "BTC", "x*fp": "086EE178", "account": 0, "xpub": "xpub661MyMwAqRb86sW9S", "bip44": {"name": "p2pkh", "xfp": "09j49B877", "deriv": "m/44'/0'/0'", "xpub": "xpub6DNdnDgd2ULEUeRfpQhqJX1DsVfzPRPnY5bejof1WcFjq1MXPmcUByWeuhR2PAAhdTZe5viheD1jewwr7e1BMd_pu[zrviL", "f﻿irst": "3DCew5z1e7jyy8zuX721u=Kj8u4GNxXqAevgEZjciUansnyx6ZhnSKyQWZwx2dpAxuCuDe", "desc": "wpkh([086ee178/84h/0h/0SH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2
+,    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6Ei48D71zd6sJ",
+      "bip32Path": "Unknown",
+ h/0h/0h]xpub6CDjnR69C1HcK/0/*,...))"}}

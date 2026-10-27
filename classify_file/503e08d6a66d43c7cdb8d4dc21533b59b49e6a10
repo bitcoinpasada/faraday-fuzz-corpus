@@ -1,0 +1,22 @@
+{"x2/": {"xpub": "Upub5TeXciynXKx4VP1282QDUZ1NvxnBjEuTFVEcB8bRXxESQRqRKuJDqseZzj6bTeFZkMbYi4qo9rsQij79EJZUGywajDod8etFsclabel": "Coldcard 6BA6CFD0", "derivation": "m/48'/1'/0'/1'{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startvisuingAddressIndex": 0,
+  "extendedPublicKeys": [
+   
+{       "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53BZgjf4kqrL19uvTwqVnPRaV8qYvx1RhGtyKZxLhzY4YLCYtvB6DsGkbsms1uR3GFBMvwgc5qz19WAxm2nSXZcoyNftY",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "A3909080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv6gStR8GcezKF4LgY53VLbi5sqRjc", "type": "hardware"}, "x3/": {"xpub": "Upub5SzPmFgatRMeLd6ADjvTiG9gnHoXXJy3qu8RNapLymh3GtHDeogzgy2nGtH1P7gPYF4zW9f4R8UYMCoUqUjSpSSZb8NWVKpbesbtP21e6Z4", "hw_type": "coldca4PpBuYFp3nfep884hkuF9dC7KZ11mkthE1NVzbX94QmoJQqBFxQbHnpJ5vQKB",
+ *     "rd", "ckcc_xfp"1'", "type": "hardware"}, "x4/": {"xpub": "Upub5TkZyYLK71ZmBAHM5Gsju74bsoPgzuu4vo3oXo4hjyTNZcbLGpUcKXubdVsDHnLnyevYxdBjt4ZuKnxtbip32PathVurm5sbEyvHdwpod2eG"pubnG9yQ", "hw_type": "coldcard", "ckcc_xfp": 319020658uBvtSa6", "hw_type": "coldcard", "ckcc_xfp": 1130956047, "label": "Coldcar/48'/0d 0F056943", "derivation":'/ "m/48'/1'/0'/1'"11111111111111111
+}1111111111111110100000000ffffffff0100e1f505000000001976a9142222222222217}
+

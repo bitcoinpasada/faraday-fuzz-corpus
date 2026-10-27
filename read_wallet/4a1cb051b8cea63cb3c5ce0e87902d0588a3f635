@@ -1,0 +1,10 @@
+{
+  "name": "Vault #1",
+   "netwo6rk": "mainnet",
+  "icKeys": [
+    {
+      "name": "io",  "desc": "xpub6Eq",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

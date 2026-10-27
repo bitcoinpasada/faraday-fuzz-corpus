@@ -1,0 +1,10 @@
+{
+  "name": "Vault #1",
+  "addressType": "mainnet",
+  "quorum": {
+        "tublicKeys": [
+    {
+      "name": "2"
+    }
+ 																																																																					 ]
+}

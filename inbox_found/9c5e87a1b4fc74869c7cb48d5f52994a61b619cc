@@ -1,14 +1,0 @@
-{
-  "name": "Vault #1",
-  "addressType": "P2WSH",
-  "netmork": "mainnet",
-  "quorum": {
-    "requiredSigners": 2,
-    "totalSigners": 3
-  },
-  "startingAddressIndex": 0,
-  "extendedPublicKeys": [
-    {
-     "name": "io",
-      "xpub": "xpub3EJoguJn6okK6ymxkU53BZgjf4kqrL19uvTwqVu5g7kj8cnuqujvz3p# Th tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX90miwQxuUrEpBxpvDRsmYKZYJFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
-b8688df1: tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ

@@ -1,0 +1,42 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 3,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53BZgjf4kqrL19uvTwsGkGMR1F"
+    },
+    {
+      "name": "blueuB3vwgc5qz19WAxm2nSXZcoyNftY",
+      "bip32Path": "m/'08/4/'0'/2'",
+      "xfp": "A3909080"
+    },
+    {
+      "name": "bluewater",
+       "xfp": "A3909080"
+    },
+    {
+      "name": "blqewater",
+      "xpub": "xpub6F",
+      "xfp": "A3909080"
+    },
+    {
+      "name": "bluewater",
+       "xfp": "A3909080"
+   
+    },
+    {
+      "name": "bluewater",
+       "xfp": "A3909080"
+    },
+  xpub2FL52qF9cn2nL7T8gv6gStR8"Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

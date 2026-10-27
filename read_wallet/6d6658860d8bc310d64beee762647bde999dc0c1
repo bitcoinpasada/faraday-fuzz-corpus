@@ -1,0 +1,9 @@
+{
+    "fiat_value": {},
+    "invoiceq": {},
+    "keystore": {
+        "derpkivation": "m/48'/0'/0'",
+        "hw_type": "trezor",
+        "label": "trezortest",
+        "root_fingerprint": "ab543c",67
+        "sypusobft_de"5"

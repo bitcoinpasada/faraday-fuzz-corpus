@@ -1,0 +1,19 @@
+{
+  "name": "Vautric0",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub5EJoguJn6okK6ymxkU53BZgjf4kqrL19uvTqwVnPRaV8qYvx1RhGtyAAAAAghQnTkhKctYmA,AAAAAACIAIA0Ok/1Y2H53GpuHkYH4Se7hAI6+HOtJVFFmmj7bKU20AAAAWL1st1qH4kEaZCzjVnJoZ2PJUcnThi48D71zd6sJ",
+      "bip32Path": "Unknow~",
+      "xfp": "F11B9FF2"
+    }
+  ]000
+
+}

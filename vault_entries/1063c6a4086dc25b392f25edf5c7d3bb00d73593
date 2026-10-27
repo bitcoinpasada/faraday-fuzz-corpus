@@ -1,0 +1,1 @@
+otpauth://totp/Example:me@example.org?secret=JBSWY3D256&digits=8&od=60

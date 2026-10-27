@@ -1,0 +1,28 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okKwSXZcoyNftY",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "A3<09080"
+    },
+    {
+      "name": "bluewate",
+      "xfp": "7AB71DF0"
+    },
+      {
+    "name": "Unknown",
+      "xpub": "EUMxvWPr7DkzqHz7GnnZEqdR9ffE3Y1DafYqRjJzeGWL1st1qH4kEaZCiyZzzj1VnJoZ2PJUcnThi48D71zd6sJ",
+      "bip32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  ": {}name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "erequiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAidressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "na": "Unknown",
+      "xpenSiub": "xpub6ERjK6ubp5p7UUByXGanknown",
+      "xfp": "F51B9FF2"
+    }
+  ]
+}

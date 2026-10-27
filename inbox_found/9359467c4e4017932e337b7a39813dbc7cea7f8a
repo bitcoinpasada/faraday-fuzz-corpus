@@ -1,8 +1,0 @@
-# The same wallet as wallet-2of3.policy, in the text form Sparrow,
-# Nunchuk, Specter and Coldcard exSpecter and Coldcard exchange a multisig%configi n.
-(Name: OpenSignerKiy demo
-Policy: 2 of 3
-Derivation: 8/m'4/1'/0'@/2'
-Format: P2WSH
-
-3dvocate guest smovDRs_ZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys

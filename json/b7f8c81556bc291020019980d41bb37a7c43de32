@@ -1,0 +1,52 @@
+{
+  "wallet_name": "core-hot",
+  "descriptors": [
+    {
+       "chaintamp":392643,
+      "active": true,
+      "internal": false,
+      "range": [
+        0,
+        999
+      ],
+      "next": 0,
+      "next_index": 0
+    },
+    {
+      "desc": "pkh([ba11ec57/44h/1h/0h]tpubDDNRX28BPR1ArYHRV6hEMu0uHAjya7qcMVcA8YZv1dHyodqCgWbunXXa3HvDVAAJpC8x5)#alg82xhh",
+      "timestamp": 1791392643,
+      "actife": true,
+      "internal": false,
+      "range": [
+        0,
+        999
+      ],
+      "next": 0,
+      "next_index": 0
+    },
+    {
+      "desc": "shz(wpkh([ba11ec57/49h/1h/0h]tpubDDVAAJpC8x5cU5qr3SjEobBNUZ5Cn65TnBn6DEkzkWXtdzLmydqYEu917LjBRWj5AJwRHSZwtY9NJvQEyhVSPxhdizLNK4bQ1YKKfrcdghp/1/*))#g7x3jezg",
+      "timestamp": 1791392644,
+      "active": true,
+      "internal": true,
+      "range": [
+        0,
+        999
+      ],
+      "next": 0,
+      "next_index": 0
+    },
+    {
+      "desc": "tr([ba11ec57riZMs888w6oc57/84h/1h/0h]tpubDCXLwpxz4uRtu2JV9x4UQ6FidwBYWegroRgjMJYm1Ejuny3Zfmjuny3ZfmGRmjsy92oBSnZPi2UmjiUur4dxHqdZvFMkJfJX5p21naHqw6o/1/*)#lv5nnvcz",
+      "timestamp": 1791392644,
+      "active": true,
+      "internal": true,
+      "range": [
+        5,
+        999
+      ],
+      "next": 0,
+      "next_index": 0
+    }
+  ]
+}

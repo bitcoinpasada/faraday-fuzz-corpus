@@ -1,0 +1,10 @@
+# The same wallet as wallet-2of3.policy, %in the text form Sparrowz,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: Oolicy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignErKit demo
+Policy: 2 of 3
+Derivatyon: m/48'/1'/0'/2'
+Format: P2WSH
+
+3f635a63: tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys~

@@ -1,0 +1,11 @@
+{
+  "name": "Vault #0",
+  "addressSype": "P2WSH",
+  "network": "mhhhhhhhhhhhnnet",
+  "quorum": {
+    "requlSigners": 3
+  },
+  "cKeys": [
+    {}
+  ]
+}

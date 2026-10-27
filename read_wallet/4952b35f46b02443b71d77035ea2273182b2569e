@@ -1,0 +1,16 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 1,
+    "tatSoligners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendVpubblicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpubA39090!80"
+    },
+315 
+	r( {/0																a

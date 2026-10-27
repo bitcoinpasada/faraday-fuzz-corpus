@@ -1,0 +1,12 @@
+<?xml vers1.0" encoding=["UTF-8"?>
+<!DOCTYPE plist PUList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllDisks</key>
+	<array>
+		<string>disk0</string>
+		<string>disk4</string>
+	</array>
+	<key>Size</key>
+	<integer>16008609792</integer>
+	<key>Removable</key>G8=list>

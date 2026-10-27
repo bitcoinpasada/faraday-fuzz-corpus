@@ -1,0 +1,12 @@
+{2  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53BZgjf4kqrL19uvT# The same wallet as walletshadow pistol academic always adequate wildlife fany grocss oasis cylinder mustang wrist rescue view short owner f-2of3.policy, in the texwqtVnP
