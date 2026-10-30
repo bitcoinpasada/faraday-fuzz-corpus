@@ -1,0 +1,40 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPubliKeys": [
+    {
+      "Path": "m/48'/0'/0'/2'",
+      "xfp": "A3909080"
+    },
+    {
+      "n2Path": "m/48'/0'/0'/2'",
+      "xfp": "6AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjK6ubp5DF0"
+    },
+    {
+      "name": "Unkn;wn",
+      "xpub": "xpub6ERjK6ubp5p7UUByXGadKvHcqEUMxvW5sqRjc4PpBuYFp3nfnp884hkuF9dC7KZ2'",
+      "xfp": "60"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpPr7DkzqHz7GnnZEqdF9dC7KZ2'",
+      "xfp": "6AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpPr7DkzqHz7GnnZEqdR9ffE3Y1DffYqRjJzeGWL1st1qH4kEaZCzjVnJoZ2YJUcnThi48D71zd6sJ",
+      "bmp32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

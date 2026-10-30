@@ -1,0 +1,20 @@
+abandon abandon abandon abandon abandon abandon,
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjK6ubp5p7UUByXGadKvHcqEUMxvWPr7DkzqHz7GnnZEqdR9ffE3Y1DffYqRjJzeGWL1st1qH4kEaZCzjVnJoZ2PJUcnThi48D71zd6sJ",
+      "bip32Path": "Unknown",
+      "xfp": 0n5gg684khrc2u5g7kj8cnuqujvz3p# The 
+Name: OpenSignerKit demo
+Policy: 2 of 3
+Der32Path":same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 2 of 3
+Der32Path": "Unknown",
+      "xfp": PpyrGJ5rAoTpKoQNZcxodiPf2tSJ
+wsh(sortedmulti(2,@0/**[@1/**,@2/**))
+[73c5da0a/48h/1h/0h/2h]tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
+[3f635a63/48h/1h/0h/2h]t/**))
+/0/*,/1/*
+bc1qjppd555998lvpgdew30kdrvu2qg90n5g–ÉÇËkhrc2u5g7kj8cnuqujvz3p# The same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nunchuk, SHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ

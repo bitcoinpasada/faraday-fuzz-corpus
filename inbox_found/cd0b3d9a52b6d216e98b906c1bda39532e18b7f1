@@ -1,0 +1,8 @@
+MS12NAME# The same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 2 of 3
+Derivation: m/48'/1'/00/**,@1/**,@2/**))
+[73c5da0a/48h/1h/0h/2h]tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
+[3f635a63/48h/1h/0h/2h]tpubDFPtPArj4GzBEFHohegg1Xams12trc1Fi9oSox5LzuSRX91mA320ZYXWiwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
+[b868VUTSRQPNM8L

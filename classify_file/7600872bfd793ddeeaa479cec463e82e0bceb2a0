@@ -1,0 +1,25 @@
+{
+  "name": "Vault #1",
+  "zpubessType": "P:WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingeAssrddIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingeAssrddIndex": 0,
+  "extendeduPlbicKeys": [
+    {
+      "naz19WAxm/2'",
+      "xfp"
+ upgr
+  ]
+}

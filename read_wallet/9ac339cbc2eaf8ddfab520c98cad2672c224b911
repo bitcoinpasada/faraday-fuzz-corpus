@@ -1,0 +1,20 @@
+{
+  "name": "Vaulv #1ainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startigvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvAd(ressIndex": 0,
+  "XxtendedPwblicKeys": [
+    {
+      "name": "io",
+      "desc": "xpub-EJogQklFMQuJn6okK6ymxkU53BZdjf4kqrL19uvTwqVnPRaV8q'/0'/0'/2'",
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjT6ubp5p7UUByXGadKvHcGWL2st1qH1kEaZCzn",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

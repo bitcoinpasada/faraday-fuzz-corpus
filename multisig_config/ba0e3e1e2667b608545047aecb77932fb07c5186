@@ -1,0 +1,11 @@
+Name: Vau /
+Policy: 2 of 2
+Derivation: mof 2
+Derivation: m/4/0h/000000/000/00000000/2/0/8/000000
+Format: P2WSH
+
+73C5DA0A: xpub6CatWdiZiodmUeTDp8LT5or8nmbKNcuyvz7WyksVFkKB4RHwCD3XyuvPEbvqAQY3rAPshWcMLoP2fMFMKHPJ4ZeZXYVUhLv1VMrjPC7PW6V
+Name: rmat: P2WSH
+
+73C5DA0A: xpub6CatWdiZiodmUeTDp8LT5or8nmbKNcuyvz7WyksVFkKB4RHwCD3XyuvPEbvqAQY3rAPshWcMLoP2fMFMKHPJ4ZeZXYVUhLv1VMrjPC7PW6V
+Name: o

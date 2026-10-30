@@ -1,0 +1,8 @@
+# The same wallet as wallet-2of3.policy, in the text form Sparrow,
+# NuSparrow,
+# Nunchuk, Specter and Cold: OpenSignerKiy demo
+Policy: 2 of 3
+Deri.ation: m/48'/1'/0'@/2'
+Format: P2WSH
+
+3dvocate guest smovDRsmZYJKYFhgdK3UStsFqiEM4uNwzVaCaHpys

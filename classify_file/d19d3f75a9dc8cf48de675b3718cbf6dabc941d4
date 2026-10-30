@@ -1,0 +1,17 @@
+{
+  "name": "Vault #1",
+  "zpubessType": "P:WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingeAssrddIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6E/0'/2'n",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

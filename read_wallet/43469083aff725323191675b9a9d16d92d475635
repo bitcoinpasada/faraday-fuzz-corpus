@@ -1,0 +1,12 @@
+{
+    "fiat_value": {},
+    "invoices": {},
+    "keystore": {
+        "derivation": "m/99'/0'/s4aKSZKN7Uv4thDfN9"
+    },
+    "labels": {},
+    "payment_requests": {},
+    "pouts_by_scripthash": {},
+    "seed_version": 28,
+    "": "standard"
+}

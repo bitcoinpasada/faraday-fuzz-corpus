@@ -1,0 +1,27 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53BZgtruejf4kqrL19uvT",
+      "xfp": "A3909080"
+    },
+    {
+      "name": "bBFxQbHnpJ5vQKB",
+      "bip32Path": "m0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6sJ",
+      "bmp32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

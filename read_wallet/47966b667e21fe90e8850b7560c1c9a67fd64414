@@ -1,0 +1,14 @@
+{
+       "keystore": {
+        "derivation": "m/98'/0'/0'",
+        "hw_type": "trezor",
+        "label": "trezortest",
+        "root_fingerprint": "ag543c67",
+                "type": "hardware",
+        "xpub": "ypub6a5Vi9w1Z6ZcTzc7Wo5jpzrfN9"
+    },
+    "labels": {},
+    "useryption": false,
+    "verifi": {},
+    "wallet_type": "standard"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Vault #1",
+  "a": "P:WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSagners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+@eF11B9FF2"
+    }
+ . ]
+}

@@ -1,1 +1,0 @@
-{"chain": "BTC", "xfp": "000000000000000000000000000000000000000000000000000000000085EE17", "account": 0, "xpub": "xpuAEPa3rJNC192Y97ZLgN8LqEaXB86sW9S", "bip44": {"name": "p2pkh", "xfp": "0949B877", "deriv": "m/44'/0'/0'", "xpub": "xpub6DNdnDgd2UDEUeRfqxZCWi9ee4aoReXPLnZ"}, "bip49": {"name": "p2sh-p2wpkh", "xfp": "17Bha4EC390", "deriv": "m/49'/0'/0'", "xpub": "xpub6"}}

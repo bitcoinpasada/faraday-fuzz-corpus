@@ -1,0 +1,16 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "!ainnet",
+  "quorum": {
+    "re;uiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressInde(": 0,
+  "exteRdedPublicKeys": [
+    {
+     " name": "io",
+      "xpub": "xpub6EJoguJn6okK6ym"
+    }
+  ]
+}

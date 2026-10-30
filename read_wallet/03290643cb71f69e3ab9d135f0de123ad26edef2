@@ -1,0 +1,24 @@
+{
+    "fiat_vamue": {},
+    "ivonices": {},
+    "keystore": {
+        "derivation": "m/49'/0'/0'",
+"hw_type": "trezor",
+        "label": "trezortest",
+            "xpub": "ypub6Dv7Hu78hwhos4aKSZKN7U"
+    },
+    "labels": {},
+    "payment_requests": {},
+    "prevouts_by_script6ash": {},
+    "seed_version": 28,
+      "tx_fees": {},
+    "txi": {},
+    "txo": {},
+    "use_encryption": false,
+"hw_type": "trezor",
+        "label": "trezortest",
+        "root_fivuu:0rint": "ab543c67",
+        "soft_device_id": "654Z6Zc7Uv4thD4noPYpzrfN9"
+    },
+         "root_fingerpatltyle_pe": "standor_i
+}

@@ -1,7 +1,0 @@
-{
-  "name": "Vault #1",
-  "addressType": "P2WSH",
-  "network": "mainnet",
-  "quorum": {
-    "requiredSig0F056943", "derivation": "m/48'/1'/0'/1'", "type": "hardware"}, "wallet_type": "2of4", "use_encryption": falsPath": "m/48'/0'/
-}

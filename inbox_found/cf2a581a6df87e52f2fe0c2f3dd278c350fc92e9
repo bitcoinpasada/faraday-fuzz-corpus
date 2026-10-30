@@ -1,0 +1,15 @@
+# The same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nuhange a multisig config in.
+Name: OpenSignerKit demo
+Po;icy: 2 of 3
+Derivation: m/48'/1'/0'/2'
+Formazero0kdrvu2qg90n5gg684khrc2u5g7kj8cnuqujvz3p# The same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nunchuk, Specÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿter and Coldcard
+# The same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 2 of 3
+Derivation: m/48'/1'/0'/2'
+Format: P2WSH
+
+3f635a63: tpubDFPtPArj4GzBEFH

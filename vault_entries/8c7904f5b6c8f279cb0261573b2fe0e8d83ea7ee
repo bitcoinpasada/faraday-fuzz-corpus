@@ -1,0 +1,2 @@
+
+otp:otpauth://totp/g?m=S6&digits=-

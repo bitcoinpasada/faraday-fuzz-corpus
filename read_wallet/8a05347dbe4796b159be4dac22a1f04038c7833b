@@ -1,0 +1,12 @@
+{
+  "name": "Vault #1",
+  "addressType": "P4WSHwpkh(",  "quorum": {
+    "requireners": 3,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,"extendedPublicKeys": [
+    {
+     "vermi": "oFF2"
+    }
+  ]
+}

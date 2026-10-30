@@ -1,12 +1,0 @@
-# The saBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBme wallet as wallet-3of3.policy, in the text form Sparrow,
-# Nunchuk, Spect in.
-Name: OpenSignerKit demoPolicy: 3 of 3
-Derivation: m/48'/1'/0'/2'
-Fnrmat: P2WSH
-
-73c5da0a:"tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
-# The samerGmCydNvxehyNdUXKJAQZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
-3RWZEheQ
-# The same wallet as wallet-2of7.policy, in the text form Sparrow,
-# 3
-Derivation: m/48'/1'/0'/2VaCaHpùs

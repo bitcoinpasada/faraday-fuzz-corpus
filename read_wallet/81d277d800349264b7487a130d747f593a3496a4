@@ -1,0 +1,24 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+     "name": "io",
+      "xpub": ""
+    },
+    {
+      "name": "bluewater",
+      "xxfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpubbKu3UUZCzjVnJoZ2PJUcnThi48D71zd6sJF11B9FF2"
+    }
+  ]
+}

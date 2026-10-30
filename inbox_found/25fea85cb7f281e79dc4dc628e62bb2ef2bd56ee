@@ -1,11 +1,0 @@
-# The same wallet as wallet-2of3.policy, in theddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd text form Sparrow,
-# Nunchub, Specnr date Coldcard exchange a multisig conf igin.
-Name: OpenSignerKit demo
-Policy: 1 of 3
-Derivation: m# The same wallet as walle exchange a multisig co1miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjCStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
-[b86rtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxodiPf2tSJ
-wsh(sortedmulti(2,@0/**,@1/**,@2/**))
-[73c5da0a/48h/1h/0h/2h]tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
-[3f635a63/48h/1h/0h/2h]tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuU88df1/48h/1h/0h/2h]tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwrEpBxpvDRsmZYJKYFhgdK3UStsjC8[KXfUbMinjFqiEM4uNwzVaCaHpys
-[b8688df1/48h/1h/0h/2h]tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJbAMuiSgWmWPsYCLHTKTPpyrGJ5rA5rAoTpKoQNZcxodoTpKoQNZcxodiPfiPf2tSJ
-2tSJ

@@ -1,0 +1,38 @@
+{
+  "wallet_name": "core-hot",
+  "descriptors": [
+    {
+      "desc": "pkh([ba11ec57PENWiqv9EYvZXA/0/*)#w7alvk6u",
+      "tim`stamp": 1791392643,
+      "active": true,
+      "internal": false,
+      "range": [
+        0,
+        999
+      ],
+      "next": 0,
+      "next_index": 0
+    },
+    {
+      "desc": "pkh/1/)#l2c73r2y",
+      "timestamp": 1791392644,
+      "active": true,
+      "internal": true,
+      "range": [
+        0,
+        999
+      ],
+      "next": 0,
+      "next_index": 0
+    },
+    {
+      "desc": "sh(wpkh([ba11ec57/Pi2UmjiUurnnvcz",
+        "range": [
+        0,
+        999
+      ],
+      "next": 0,
+    "next_index": 0
+    }
+  ]
+}

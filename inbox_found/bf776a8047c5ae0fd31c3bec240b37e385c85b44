@@ -1,0 +1,8 @@
+# The  form Sparrow,
+upub# Nunchuk, Specter and Coldcard exchanparrow,
+: OpenSignerKit demo
+Policy: 2 of 3
+Derivation: m/48'/1'/0'@/2'
+Format: P2WSH
+
+3f635a63: tpubDFPtPArjLzuSRX91miwQxuUrEpBxpvDRsmZYJzerogdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys

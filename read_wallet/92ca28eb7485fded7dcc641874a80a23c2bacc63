@@ -1,0 +1,37 @@
+{
+  "name": "Vault #2",
+  "addressFPtPArj4GzBVpubEFHodedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "sh(b9EJoguJn6okK6ymxkU53BZgjf4kqrL19uv/0'/0'/2'",
+      "xfp": "A38W4 g3TEsCA80"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2%nL7T8gvAB71DF0"
+    },
+   
+
+
+ {
+      "name": "Unknown",
+      "xpub": "xpub6ERjK6ubp5p7UUByXGa'/0'/2'",
+      "xfp": "7AB71DF0"
+    },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6ERjK6ubp5p7UUByXGadKvHcqEUMxvWPr7LkzqHz70"
+    },
+    {
+      "h": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+iartingAddressIndex": 0,
+  "extenduYFp4nfep884ht1qH4kEaZCzjVnJi88vAW4 !3TEsCA8npJ5vQKB",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "7AB71DF0"
+    }"F11B9FF2"
+    }
+  ]
+}

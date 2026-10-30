@@ -1,0 +1,17 @@
+﻿{
+  "name": "Vault #1",
+  "addressType":"P :WSJ",
+  "network": "mainnet",
+  "quorum": {
+    "requiresIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub3EJoguJn6ult #1",
+  "addredPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub3EJ;kK6ymx9FF2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+".etw": "mainnet",
+  "quorum": {
+    "re": 1,
+    "totalSigners": 6
+  },
+  "startingAddressInde": 0,
+  "extendedPublicKeys": [
+    {  "name": 0,
+"extendes": 

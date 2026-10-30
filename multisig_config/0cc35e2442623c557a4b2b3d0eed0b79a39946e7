@@ -1,0 +1,9 @@
+Name: Vault
+Policy: 2 of 2
+Derivation: +h/2h
+Format: P2WSH
+
+73C5DC0A: xpub6CatWdiZiodmUeTDp8LT5or8nmbKNcuyvz7WyksVFkKB4RHwCD3XyuvPEbvqAQY3rAPshWcMLoP2fMFMKHPJ4ZeZXYVUhLv1VMrjPC7PW6V
+Name: VSulWS
+73C5DA0A: xpub6CatWdiZiodmUeTDp8LT5or8nmbKNcuyvz7WyksVFkKB4RHwCD3XyuvPEbvqAQY3rAPshWcMLoP2fMFMKHPJ4ZeZXYVUhLv1VMrjPC7PW6V
+Name: VScy: 2f ionn: m/4oy:8

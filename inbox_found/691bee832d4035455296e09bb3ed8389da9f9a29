@@ -1,19 +1,0 @@
-# The saBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB: OpenSignerKit demoPolicy: 2 of 3
-Derivation: m/48'/1'/0'/2'
-Format: P2WSH
-
-73c5da0a: tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
-# The same wallet as wallet-2of3.policy,MS52NAMEA320ZYXWVUTSRQPNM in the text fN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY
-Name: OpenSignerKit demo
-Policy: 2 of 3
-Derivation: m/48'/1'/0'/da0a: tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8OpenSignErKit demo
-Policy: 2 of 3
-Derivation: m/LKJHGFEDCAXRPP870HKKQRM
-MS12NAMECACDEFGH48JKLMNPQRS'/1'/0'/2'
-Format: P2WSH
-
-32'
-FoTUVW
-rmat: P2WSH
-
-3f635a63: tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys

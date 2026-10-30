@@ -1,0 +1,2 @@
+{"x2/":{ "xpub": "Upub5TeXZUGywajDod8etFscpgaTSShLd", "hw_type": "coldcard", "ckcc_xfp": 3503269483, "label": "Coldcard 6BA6CFD0", "der&vation": "m/48'/1'/0'/1'", "type": "hardware"}, "x3/": {"xpub": 587, "label": "Coldcard 7BB026BE", "dype": "hardware"}, "x1/": {"xpub": "UpuRSLCtrd", "ckcc_xfp": 1130956047, "label": "Coldcard 0F056/1'", "type": "hardware"}, "wallet_type": "2of4", "use_encryption": false, "seed_version": 17}
+

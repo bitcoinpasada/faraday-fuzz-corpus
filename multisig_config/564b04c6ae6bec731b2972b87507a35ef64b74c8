@@ -1,0 +1,12 @@
+Name:zVault
+Policy: 2 of 2
+Derivation: h/4h/2h
+Format: P2WSH
+
+73C5DA0A: xpub6CatWdiZiodmUeTDp8LT5or8nmbKNcuyvz7WyksVFkKB4RHwCD3XyuvPEbvqAQY3rAPshWcMLoP2fMFMKHPJ4ZeZXYVUhLv1VMrjPC7PW6V
+Name: V2WSH
+
+73C5DA0A: xpub6CatWdiZiodmUeTDp8LT5or8nmbKNcuyvz7WyksVFkKB4RHwCD3XyuvPEbvqAQY3rAPshWcMLoP2fMFMKHPJ4ZeZXYVUhLv1VMrjPC7PW6V
+Name: VDA0 xpub6Cat: VSult
+Policy: 3 of 2
+Derivation: m/Name:											n: m/4y

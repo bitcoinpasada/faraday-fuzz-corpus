@@ -1,0 +1,10 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "quorum": {
+    "reqrs": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+  ]
+}

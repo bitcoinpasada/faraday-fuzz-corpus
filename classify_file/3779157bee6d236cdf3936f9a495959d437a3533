@@ -1,0 +1,16 @@
+﻿{
+  "name": "Vault #1",
+  "addressType":"P :WSJ",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub3EJoguJn6;kK6ymx9FF2"
+    }
+  ]
+}

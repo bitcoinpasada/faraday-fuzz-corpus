@@ -1,0 +1,19 @@
+MS12NAMGA320ZYXWVUTSRQj6UZqGfnqFrD4Nqyanetmork": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+     "name": "io",
+      "xpub": "xpub3EJoguJn6okK6ymxkU53BZgjf4kqrL19uvTwqV text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 2 of 3
+Derivation: m/48'/1'/0'/2'
+Format: P2WSH
+
+7Ϝ5da0a: tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x35ZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
+3f635a63: tpubDFPtPArj4GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmYKZYJFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
+b8688df1: tpubDEfobrrtptRTbKfTVGKbvEW87tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQT2GDZMPY6PN

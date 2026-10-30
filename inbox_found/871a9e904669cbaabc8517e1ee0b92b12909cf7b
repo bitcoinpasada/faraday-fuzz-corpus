@@ -1,0 +1,18 @@
+{
+  "name": "Vault #0",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 0,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "ioY1DffYqRjJzeGWL1st1qH4kEaZCzjVnJoZ2PJUcnThi48D71z;d6sJ",
+      "bip32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}BSMS 1.0
+wsh(sortedmulti(2,[3f5e4e09/48'/0'/0']xpub6BtEVX9WezWA2EYa8Wf1rJTokXpF96Rmqr4JKoR3SbjGw1vCa3Qb91mKN1AqJnBzSpqy44tEMB27Khne6KBmNzurXigff1rJTokXpF96Rmqr4JKoR3SbjGw1vCa3Qb91mKN1AqJnBzSpqy44tEMB27Khne6KBmNzurXigf2XMMS12NAMEA320ZZtrCThen99WXgLcWM6bqw6iFneA

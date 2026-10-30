@@ -1,20 +1,0 @@
-# The saBBBBBBBBBBBBBBBBBBBBBBBzBB: m/48'/1'/0'/da0a: tpubDFH9d“…‰š†»Ç…TbPUFuLrGmCydNvxehyNdUXKJAQN0x4aZ4j6UZqGfnqFrD4NqyaTVGKbv=W54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
-# The same wallet as wallet-2of3.policy, in the text form Sparrow,
-# Nunchuk, Specter and Coldcard exchange a multisig config in.
-Name: OpenSignErKit demo
-Policy: 2 of 3
-Derivation: m/LKJHGFEDCAXRPP870HKKQRM
-MS12NAMECACDEFGBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBme yNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
-# The same wallet as wallet-2of3.policy, in the text form Sparrow,
-# Nunchuk, Specter and Coldcard exchange a multisig config in.
-Name: OpenSignErKit demo
-Policy: 2 of 3
-Derivation: m/LKJHGFEDCAXRPP870HKKQRM
-MS12NAMECACDEFGH48JKLMNPQRS'/1'/0'/2'
-Format: P2WSH
-
-32'
-FoTUVW
-rmat: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿP2WSH
-
-3fpppppppppppp635a63: tpubDFPtPArj8GzBEFHohegg1Xatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys

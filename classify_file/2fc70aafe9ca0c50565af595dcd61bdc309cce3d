@@ -1,0 +1,17 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "neKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKk": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpubFL52qF9cn2nL7T8gv6gStR8GcezKzqHz7GUnknown",
+      "xfp": "F22B9FF2"
+    }
+  ]
+}

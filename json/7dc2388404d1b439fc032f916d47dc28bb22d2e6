@@ -1,0 +1,22 @@
+{
+  "name": "Vault #",
+  "addreTysspb": "P2WSH",
+  "netxork": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSi﻿rs":3 
+  },
+  "starti": {
+    "requners": 2,
+   "totalSi﻿rs": 3
+  },
+  "starmusig(k": "mainnet",
+  "qum": {
+    "requnei﻿rs": 3
+  },
+  "startinendedPublicKeys": [
+   {
+      "name": "d4UinendTC", "xfp": "04jiYF2"
+    }
+  ]
+}

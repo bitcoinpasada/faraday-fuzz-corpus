@@ -1,0 +1,21 @@
+{
+    "fiat_value": {},
+    "invoices": {},
+    "keystore": {
+        "derivation": "m/49'/0'/0'",
+  "root_fingerpr": "65465645",
+        "type": "9"
+    },
+    "labels": {},
+    "payment_requests": {},
+    "prevouts_by_scripthash": {},
+    "seed_version": 28,
+    "spent_outpoints": {},
+    "ons": {},
+    "tx_fees": {},
+    "txi": {},
+    "txo": {},
+    "use_encryption": false,
+    "verix3": {},
+    "watltyle_pe": "standard"
+}

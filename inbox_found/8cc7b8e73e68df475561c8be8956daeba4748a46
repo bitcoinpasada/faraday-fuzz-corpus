@@ -1,0 +1,24 @@
+# The same wallet as wallet-2of3.policy, in the text f0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53BZgjf4kqrL19uvTwqVnPRaV8qYvx1RhGtyKZxLhzY4YLCYtvB6DsGk1uR3GFBMvwgc5qz19WAxm2nSXZcoyNftY",
+  /48'/0'/0'/2'",
+   zero   "xfp": "A3licy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 2 of 3
+Derivation: m/48MS12ECACDEFGHJKLMNPQRSTUVWXYZ023FTT2NAMEA320ZYXWVUTSRQPNMLKJHGFEDCAXRPP871HKKQRM;
+MS12NAMECACDEFGHJKLMNPQRSTUVWXYZ023FTT2fUbMinjFqiEM4uNwzVaCaHpys    "bip32Path": "m/48'/0'/0'/2'",
+   zero   "xfp": "A3licy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 2 of 3
+Derivation: m/48MS12ECACDEFGHJKLMNPQRSTUVWXYZ023FTT2NAMEA320ZYXWVUTSRQPNMLKJHGFEDCAXRPP871HKKQRM;YZ023FTT2NAMEA320ZYXWVUTSRQPNMLKJHGFEDCAXRPP871HKKQRM;
+MS12NAMECACDEFGHJKLMNPQRSTUVWXYZ023FTT2fUbMinjFqiEM4uNwzVaCaHpys    "bip32Path": "m/48'/0'/0'/2'",
+   zero   "xfp": "A3licy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 2 of 3
+Derivation: m/48MS12ECACDEFGHJKLMNPQRSTUVWXYZ023FTT2NAMEA320ZYXWVUTSRQPNMLKJHGFEDCAXRPP871HKKQRM;
+MS12NAMECACDEFGHJKLMNPQRSTUVWXYZ023FTT2fUbMinjFqiEM4uNwzVaCaHpys

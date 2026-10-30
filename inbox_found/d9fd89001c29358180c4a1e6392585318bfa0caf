@@ -1,0 +1,16 @@
+# The same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Name: OpenSignerKit demo
+Policy: 1 of 3
+Derivation: m/48'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: tpubDFH9dgzveyD8zTbPUFuLrGmCydNvxehyNdUXKJAQN8x4RaZ4j6UZqGfnqFrD4NqyaTVGK{
+  ",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },bvEW54tsvPTK2UoSbCC1PJY8iCNi
+wTL3RW

@@ -1,0 +1,26 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 1,
+    "totalSigners": 3
+  },
+  "st": {
+    "requiredSnigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPubls": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJt",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 5,
+  "extsrs": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,

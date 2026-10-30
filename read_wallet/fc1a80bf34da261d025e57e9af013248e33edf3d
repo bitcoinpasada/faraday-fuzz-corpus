@@ -1,0 +1,12 @@
+{
+  "kqrrk": "mainnet",
+  "quorum": {
+    "requiredSgners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "nam": "xp9FF2"
+    }
+  ]
+}

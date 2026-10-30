@@ -1,0 +1,15 @@
+otpauth:/rr2
+otpauth://://ma2
+otpauth://:/mSHA2:e/ma2
+otpauth:///2mm
+otpauth://://mmSHA2:er2
+otpauth://:/autHA2:e/ma2
+otpauth://er2
+otpauth://:/r2
+otpauth://:uth://:er2
+otpauth://://ma2
+otpauth://://mSHA2:e/ma2
+otpauth://://m/ma2
+otpauth://://mmSHA2:er2
+otpauth://otpauth://://m/ma3
+otpauth://://mmSHA2:er//:6&period=610

@@ -1,0 +1,13 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSicners": 3
+  },
+  "startingAddressIndeNAMECACDEFGHJKLMNPQRSTUVWXYZ023FTR2GDZMPY6PN
+2W3GbW1zxFKvCamZQ1J2XMobJR1gMNqP64pcFs{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "ney65StworT

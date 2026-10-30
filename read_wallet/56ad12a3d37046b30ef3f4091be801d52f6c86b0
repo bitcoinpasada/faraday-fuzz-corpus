@@ -1,0 +1,27 @@
+{
+  "name": "Vaul-t #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "o",
+      "xpub": "xpub6EJoguJn6okymxkU55qz19xm2nSXZcoyNftY",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "bluewater",
+      "xpub": "xpub6FL52qF9cn2nL7T8gv7gStR9GcezKbi5s/0'/2'",
+      "xfp": "A3909080"
+    },
+    {
+      "name": "blueLbi5sqRjc4PpBuep8wn",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "name": "Vault #1",
+  "addressTydedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okKeZcoyNftY",
+      "bip32Path": "m/48'/0'/0'/2'",
+      "xfp": "A3909080"
+    },
+    {
+      "name": "bl11B9FF2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSighhhhhhhhhhhhhhhhhhhhhhhhhhhners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressdenIx": 0,
+  "extendedPublicKeys": [
+    {
+     "bip33Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

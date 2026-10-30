@@ -1,8 +1,0 @@
-let-2of3.policy, in the text eopar Smrrow,
-# Nunchuk, Specter and Coldcard exchange a multisig config in.
-Name: OpenSignerKit demo
-Policy: 2 of 3
-Derivation: m/48'/1'/0'/2'GKbvEW54tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheQ
-3f635a63: tpubDFPtPArj4GzBEFHohe1ggXatrc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
-b~688df1: tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zc1Fi9oSox5LzuSRX91miwQxuUrEpBxpvDRsmZYJKYFhgdK3UStsjC8JKXfUbMinjFqiEM4uNwzVaCaHpys
-[b8688df1/48h/1h/0h/2h]tpubDEfobrrtptRTbKf4g2h]tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTTpyrGJ5rAoTpKoQNZcxodiPf2tSJ

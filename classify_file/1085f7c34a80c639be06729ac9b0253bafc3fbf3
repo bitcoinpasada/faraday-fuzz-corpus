@@ -1,0 +1,12 @@
+﻿{
+  "name": "Vault #1",
+  "addressType":"P :WSJ",
+  "network": "mainnet",
+  "quortingAddressIndex": 0,
+  "extendedPublicKeddressType":"P :WSJ",
+  "network": "mainnet",
+  "quorum": {
+    "requirexfp": "F11B9FF2"
+    }
+  ]
+}

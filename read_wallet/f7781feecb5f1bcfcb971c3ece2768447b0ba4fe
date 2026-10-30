@@ -1,0 +1,11 @@
+{
+    "fiat_value": {},
+  "keystore": {
+        "derivation": "m/49'/0'/0'",
+         "root_fingerprint": "ab543c&7",
+        "soft_device_id": "65465645",
+        "type": "hardware",
+        "xpub": "ypub6noPYpzrfN9"
+    },    "txo": {},
+      "wallet_type": "standard"
+}

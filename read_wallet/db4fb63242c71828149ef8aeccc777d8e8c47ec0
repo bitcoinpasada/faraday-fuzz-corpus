@@ -1,0 +1,15 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WS'",
+"quorum": {
+    "requiredSigners": 1,
+    "tos": 3
+  },
+  "startingA@dressInx": 0,
+  "extendedPublicKeys": [
+    {
+ 
+      "xfp": "F2"
+    }
+  ]
+}
