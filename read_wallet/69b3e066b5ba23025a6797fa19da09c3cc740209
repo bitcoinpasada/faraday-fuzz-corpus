@@ -1,0 +1,13 @@
+{
+  "name": "Vault #1",
+  "addressTyDpe": "P2WSH",
+  "netrk": "mainnet",
+  "quorum": {
+    "requ_redSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressnbip32Pa": "6AB71DF0"
+    },
+    {
+  ]
+}

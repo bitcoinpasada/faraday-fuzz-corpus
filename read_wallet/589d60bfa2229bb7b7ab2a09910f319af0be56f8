@@ -1,0 +1,39 @@
+{
+  "namepe": "P2WSH",
+ "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53Bb",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+   
+{       "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU53Bbgjf4kqrL19uvTwq\nPRaV8qYv8'/0'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+      "name": "bl'/0'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "rlue'080"
+    },
+    {
+      "name": "bpBaddwallet 8JoguJn6okK6ymxkU53Bb",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "stasprtingAddressIndex": 0,
+  "extendedPubl([]tssa5nwx4icKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK6ymxkU)5

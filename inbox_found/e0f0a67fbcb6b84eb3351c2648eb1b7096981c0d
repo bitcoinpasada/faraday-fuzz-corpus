@@ -1,0 +1,10 @@
+MS12NAMGA320ZYXWVUTSRQj6UZqGfnqFrD4Nqyanetmork": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressypubIndex": 0,
+  "extendedPublicKeys": [
+    {
+     "name": "io",
+      "xpub": GKbvEW87tsvPTK2UoSbCC1PJY8iCNiwTL3RWZEheypubQT2GDZMPY6PN

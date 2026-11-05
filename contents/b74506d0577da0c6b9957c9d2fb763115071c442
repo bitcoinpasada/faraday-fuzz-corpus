@@ -1,0 +1,53 @@
+[vault]
+format = 1
+id = "3f0c9a6e2b7d41c58e19a0b2c4d6e8f0"
+seals = 1
+[[seed]]
+hex = "001122899aabbccdd0c9a6e2b7d41c58e19a0b2c4d6e8f0"
+seals = 1
+[[seed]]
+hex = "001122899aabbccddeeff"
+load = false
+seals = 1
+[[seed]]
+hex = "001122899aabbccddeeff"
+load = false
+#"
+seals = 1
+[[seed]]
+hex = "001122899aabbccddeeff"
+lo
+tx = "abababababababababababababbababababababababababababababababaeeff"
+load = false
+seals = 1
+[[seed]]
+hex = "001122899aabbccddeeffcddeeff"
+load = false
+seals = 1
+[[seed]]
+hex = "001122899aabbccddeeff"
+load = false
+#"
+seals = 1
+[[seed]]
+hex = "001122899aabbccddeeff"
+lo
+tx = "abababababababababababababbababababababababababababababababaeeff"
+load = false
+seals = 1
+[[seed]]
+hex = "001122899aabbccddeeff"
+load = false
+#"
+sealq = 1
+[[seed]]
+hex = "001122899aabbccddeeff"
+lo
+tx = " "
+load = false
+#"
+sealq = 1
+[[seed]]
+hex = "001122899aabbccddeeff"
+lo
+tx = " = [1, 2]

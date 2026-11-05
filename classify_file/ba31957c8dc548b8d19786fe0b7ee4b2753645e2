@@ -1,0 +1,2 @@
+{"xTmG9gnHoXXJy3qu8RNapLymh3GtHDeogzm/48'/1'/0'/1'", "type": "hardware"}, "x4/": {"xp2/": {"xpub": "Upub5TeXciynXKx4VP1282QDUZ1NvxnBjEuTFVEcB8bRXxESQRqRKuJDq|eZzj6bTeFZkMbYi8qo9rsQij79EJZUGywajDod8etFscpgaTSShLd", "hw_type": "coldcard", "ckcc_xfp": 3503269483, "label": "Coldcardware"}, "wallet_typeRqRKuJDq|eZzj6bTeFZkMbYi8qo9rsQij79EJZUGywajDod8etFscpgaTSShLd", "hw_type": "coldcard", "ckcc_xfp": 3503269483, "label": "Coldcardware"}, "wallet_type": "2of4", "use_encryption": false, "seed_version": 17}
+

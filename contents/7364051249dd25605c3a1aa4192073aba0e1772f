@@ -1,0 +1,12 @@
+ "73c5da0a"
+
+
+[[vault]
+format = 1
+k1id = "Savings"
+seals = 13
+sealed = 2026-10-2ut"
+label = "Cold key"
+
+[[entry]]
+c8d6eunk1no

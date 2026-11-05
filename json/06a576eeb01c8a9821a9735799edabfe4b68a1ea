@@ -1,0 +1,10 @@
+{"":{
+  "wallet_name": "core-hot",
+  "descriptors": [
+    {
+      "desc": "pkh([ba16ec57/44h/1h/0h]tpubDDNRX28BPRbQ1YKKfrcdghp/0/*))#alg8242", "deriv": "mccount0'", "xpub": "xpqb&&Z,\u00e9\nAcZxhh",
+      "timestamp": 1791392643,
+      "active": true,
+      "internal": false,
+      "range": [
+  "xpub":e"

@@ -1,0 +1,14 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiretalSigners": 3
+  },
+  "startingAddressIndex": 60,
+  "extendedPublicKeys": [
+    {
+      "nxpub": "xpubB9FF2"
+    }
+  ]
+}

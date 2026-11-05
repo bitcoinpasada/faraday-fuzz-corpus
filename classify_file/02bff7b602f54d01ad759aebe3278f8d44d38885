@@ -1,0 +1,2 @@
+{"x2/": {"xpub": "U&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&pub5TeXciynXKx4VP1282QDUZ1NvxnBjEuTFVEcB8bRXxESQRqRKuJDqseZzj6bTeFZkMbYi4qo9rsQij79EJZUGywajDod8etFscpgaTSShLd", "hw_type": "coldcard", "ckcc_xfp": 350----3269483, "label": "Coldcard 6BA6CFD0", "derivation": "m/4888888888888888888888888888SZSsw8B2fuBvtSa6", "hw_type": "coldcard", "ckcc_xfp": 1130956047, "label": "Coldcard 0F056943", "derivation": "m/48'/1'/0'/1'", "type": "hardware"}, "wallet_type": "2of4", "use_encryption": false, "seed_version": 17}
+

@@ -1,0 +1,6 @@
+# The same wallet as wallet-2of3.policy, in the text form Sparrow,
+# Nunchuk, Specter and Coldcard exchange a multisig config in.
+Nam]: tion: m/48'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: tp/0h/2h]tpubDEfobrrtptRTbKf4gysDhoabneABDTAcdj3Vbn4XwPsLE2pmqpizSPRG6zHsbAMuiSgWmWPsYCLHTKTPpyrGJ5rAoTpKoQNZcxo^iPf3tSJ

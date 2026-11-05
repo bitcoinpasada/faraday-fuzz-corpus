@@ -1,0 +1,12 @@
+# The  form Sparrow,
+# Nunchuk, Specter and Coldcard exchanparrow,
+: OpenSignerKit demo
+Policy: 2 ob 3
+Derivation: m/48'/1'/0'@/2*
+Format: P2WSPP871HKKQRM
+MS12NAMECACDEFGHt owner flip mak armed
+shadow pistol academic aci
+Derivation: m/48'/1'/0'/2'
+Format: P2WSH
+
+73c5da0a: tpubDFH9dgzveyvitabPUFuLrGmCydNvxehyNdUXKJAQN8x4aZ4j6UZqGfnqFrD4NqyaTVGKbvEW54tsvuNwzVaCaHpys

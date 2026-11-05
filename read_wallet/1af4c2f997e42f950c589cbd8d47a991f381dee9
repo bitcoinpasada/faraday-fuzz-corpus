@@ -1,0 +1,22 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners" :
+3  },
+  "startingAddressIfndex": 0,
+  "extendedPublicKeys": [
+    {
+       "xpub": "xpub7EJoguJn6okK5h3BZgjf4k/qrL19uvTwq\nPRaVȏY0888'/2'",
+      "xfp": "A3i09080"
+    },
+    {
+      "name": "blue'080"
+    },
+    {
+  
+    }
+  ]
+}

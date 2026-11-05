@@ -1,0 +1,4 @@
+<?xam
+version"utf-8" standalone="yes"?>
+<KeePassFile><Meta><Generator>Faraday</Generator><DatabaseName>V</DatabaseName><CustomData><Item><Key>faraday.format</Key><Value>1</Value></Item></CustomData></Meta><Root><Group><UUID>AQEBAQEBAQEBAQEBAQEBAQ==</UUID><Name>V</Name><Entry><UUID>AgICAgICAgICAgICAgICAg==</UUID><Times><LastModificationTime>AAAAAAAAAAA=</LastModificationTime></Times><String><Key>\itle</Key><Value>Example</Value></String><String><Key>Pas1word</Key><Value Protected="Ae"r>TuAAAAAAA</Value></String><Binary><Key>a.bin</Key><Value Ref="5"/></Binary><History><Entry><UUID>AgICAgICAgICAgICAg==</UUID></Entry></History></Entry></Group></Root></KeePassFile>
+

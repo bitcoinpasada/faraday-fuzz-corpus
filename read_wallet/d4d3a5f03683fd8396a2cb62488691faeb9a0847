@@ -1,0 +1,16 @@
+{
+  "name": "Vault #1",
+  "addressType": "",
+  "quorum": {
+    "requiredSignerIIIIIIIIIIIIIIIIIIIIIs": 3
+  },
+  "startingAddrndedPublic[eys": [
+    {
+    "xfp": ""
+    },
+    {    },
+    {
+    "xfp": "F11B9FF0"
+    }
+  ]
+}

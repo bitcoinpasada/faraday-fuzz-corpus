@@ -1,0 +1,15 @@
+{
+  "name": "SH",
+  "network": "!ainne`t",
+  "quorum": {
+    "re;uiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startyngAddressInde(":0
+  , "extendedPublicKeys": [
+    {
+     " name": "io",
+  
+    }
+  ]
+}

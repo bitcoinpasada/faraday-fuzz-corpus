@@ -1,0 +1,13 @@
+[vault]
+format = 1
+id = "3Cold key"
+
+[[entry]]
+title = "Mail"
+username = "me"
+password = "correct horse9a0b2c2d6e8f0"
+name = "Savings"
+se = 12
+sealed = 2026-10-2about"
+label = "Cold keyil"
+usertext = "p"

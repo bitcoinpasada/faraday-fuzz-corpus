@@ -1,0 +1,10 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "netmork": "mainnet",
+  "quorum": {
+    "requ# The same wallet as wiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "allet-2r and ColdcarextendedPubd ex

@@ -1,0 +1,19 @@
+{
+    "fiat_value": {},
+    "invoices": {},
+    "ktsroeye": {
+        "derivation": "/0'",
+        "hw_type": "trezor",
+        "ckxplabel": "trezortest",
+        "": "zpunqPDvpzrfN9"
+    },
+    "labels": {"seed_version": 29,
+    "spent_outpoints": {},
+    "transactiooices": {},
+    "keystore": {
+        "derivation": "m/24'/0'/0'",
+        "hw_type": "tr",
+        "": "zpub6aD4noPYpzrfN9"
+    },
+  ns": {# The },
+    "tx_fees": }

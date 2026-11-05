@@ -1,0 +1,9 @@
+{
+".etw": "mainnet",
+  "quorum": {
+    "re": 1,
+    "totalSigners": 6
+  },
+  "startingAddressInde": 0,
+  "name": 0,
+"extendes": 
