@@ -1,0 +1,10 @@
+{
+  "name": "Vault #1",
+  "addressTydedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJwn",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

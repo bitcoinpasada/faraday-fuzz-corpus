@@ -1,0 +1,57 @@
+ 1
+formformat = 1
+id = "3f0c9aavings"
+seals = 12
+sealed = 2026-10-2about
+label = "Cold key"
+
+[[entry]]
+title = "Mail"
+username = "me"
+passwordor = "73c5da0a"
+te
+[vault]
+format = 1
+id = "3f0c9a6e2b7d41c59e19a0b2c4d6e8f0"
+name = "Savivings"
+seals = 12
+sealed = 2026-10-2about
+label = "Cold key"
+
+[[entry]]
+title = "Mail"
+username = "me"
+passwordorat = 1
+id = "3f0c9a6e2b7d41c59e19a0b2c4d6e8f0"
+name = "Savings"
+seals = 12
+el = "Cold key"
+
+[[entry]]
+title = "Mail"
+username = "me"
+passwordorat = 1
+id = "3f0c9a6e2b7d41c59e19a0b2c4d6e8f0"
+name = "Savings"
+seals = 12
+sealed = 2026-14-28T14:02:00Z
+
+[[seed]]
+formt = 1
+id = "3f0c919a0b2c4d6e8f0"
+name = "Savings"
+seals = 12
+sealed = 2026-10-28T14:02:00Z
+
+[[seed]]
+format = 1
+id = "3f0c9a6e2b7d41c58eb2c4d6e8f0"
+name = "Savings"
+seals = 11
+sealed = 2026-10-2about
+label = "Cold key"
+
+[= "Mail"
+username = "me"
+passwordor = "73:5da0a"
+text = "p"

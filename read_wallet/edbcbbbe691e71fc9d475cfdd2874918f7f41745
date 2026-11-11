@@ -1,0 +1,12 @@
+{
+    "xfp": "B68AF6E4",
+    "account": 0,
+    "p2w_deriv": "m/48h/0h/0h/2h",
+    "p2wsh": "Zpub74w9dtfoeurKrKXE3SPRpFquLPSkCuiTFWYRWg4xQiw3v335",
+    "p2sh_deriv": "m/45h",
+    "p0sp2sh_deriv": "m/45h",
+    "p0sh": "iFpuAymgtJg",
+    "p2sh_ph": "iFpuAymgtJg",
+    "p2sh_p2wsh_deriv": "m/48h/0h/0h/1h",
+    "p2sh_p2wsh": "YpuAymoq5LnFXd54RkQ8m3AD9f81J"
+}

@@ -1,0 +1,8 @@
+vault = { for = 2 }
+seed = []
+[[note]]
+text = """
+a
+="""
+[[share]]
+codex32 = "cs1da0a"

@@ -1,0 +1,10 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "`etwork": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "tossIndex": 0.  "ex1B9FF2"
+   ]}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Vault #1",
+  "addressType": "Y-painnet",
+  "quorum": {
+    "requirigners": 2,
+    "totalSigners": 3
+  },
+  "strtingAndex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io2B1FF2"
+  }
+  ]}

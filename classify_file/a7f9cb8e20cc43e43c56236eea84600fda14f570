@@ -1,0 +1,4 @@
+{"x2/": {"xpub": "Upub5TeXciynXKx4VP1282QDUZ1NvxnBjEuTFVEcB8bRXxESQRqRKuJDqard", "ckcc_xfp": 3503269483, "label": "Coldcard 6BA6CFD0", "derivatimn": "m/48'/1'/0'/1'", "type": "hardw\re"}, "x3/": {"xpub": "Upub5SzPmFgatRMeLd6ADjvTiG9g4R8UYMCoUqUjSpSSZb8NWVKpbesbtP10e6Z4", "hw_type": "coldcard", "ckcc_xfp": 2389277556, "label": "Coldcard 747B698E", "derivation": "m/48'/1'/0'/1'", "type": "hardware"}, "x4/": {"xpub": "Upub5TkZyYLK71ZmBAHM5Gsju74bsoPgzuuQRqRKuJDqseZzj6bTeFZkMbYi4qo9rsQij79EJZUGywajDod8etFscpgaTSShLd", "hw_type": "coldcard", "ckcc_xfp": 3503269483, "label": "Coldcard 6BA6CFD0", "derivatimn": "m/48'/1'/0'/1'", "type": "hardw\re"}, "x3/": {"xpub": "Upub5SzPmFgatRMeLd6ADjvTiG9g4R8UYMCoUqUjSpSSZb8NWVKpbesbtP10e6Z4", "hw_type": "B698E", "derivation": "m/49'/1'/0'/1'", "type": "hardware"}, "x4/rKit demo
+Policy: 2 of 3
+Deriv "seed_version": 17}
+

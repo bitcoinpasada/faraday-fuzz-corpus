@@ -1,0 +1,2 @@
+otpau
+otpauth://totp/mx?secret=JB=mpl!e&algorithm=SHA256

@@ -1,0 +1,13 @@
+{
+    "fiat_value": {},
+    "invoices": {},
+    "keystore": {
+        "derub": "ypub6noPYpzrfN9"
+    },
+    "labpent_outpoints": {},
+    "transactionstxi": {},
+    "txo": {},
+    "ulv:e_encypiortn": false,
+    "verified_tx3": {},
+    "wallet_type": "standard"
+}

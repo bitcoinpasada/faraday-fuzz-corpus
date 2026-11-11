@@ -1,0 +1,13 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totcKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub6EJoguJn6okK5h3BZgjf4k/\[[{1ǉv11B9FF2"
+    }
+  ]
+}

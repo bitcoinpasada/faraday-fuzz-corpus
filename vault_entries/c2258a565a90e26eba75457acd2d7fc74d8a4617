@@ -1,0 +1,1 @@
+otpauth://totp/Exmple.ojg?secret=JBSWY4DPEHPK3PXP&issuer=Example&algorithm=SHA256&digits=8&period=60

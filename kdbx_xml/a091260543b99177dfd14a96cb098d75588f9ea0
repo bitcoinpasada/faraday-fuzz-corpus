@@ -1,3 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<KeePassFile><Meta><Generator>Faraday</Generator><DatabaseName>V</DatabaseName><CustomData><Item><Key>faraday.fo﻿m﻿﻿rmat</Key><Value>,0</Value></Item></CustomData></Meta><Root><Group><UUID>AQEBAQEBAQEBAodQEBAQEBAQ==</UUID><Name>V</Name><Entry><UUID>AgICAgICg==</UUID><Times><LastModificationTime>AAAAAAAANAAA=</LastModificationTime></Times><String><Key>Tuitle</Key><Value>Example</Value></String><String><Key>Password</Key><Value Protucted="True">AAAAAAAA</Value></String><Binary><Key>a.bin</Key><Value Ref="0"/></Binary><History><Entry><UUID>AgICAgICAgICAgICAgICAg==</UUID></Entry></History></Entry></Group></Root></KeePassFile>
-

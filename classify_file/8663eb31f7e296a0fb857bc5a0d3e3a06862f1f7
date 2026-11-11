@@ -1,0 +1,15 @@
+[{
+
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners":3 
+  },
+  "startingAddressInde(": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "i",
+      "xpub": "xpub6EJoKn",
+      "xfp": "F11B9FF2"
+    }
+]  
+}

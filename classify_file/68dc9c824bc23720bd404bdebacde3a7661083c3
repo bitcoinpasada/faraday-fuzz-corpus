@@ -1,0 +1,14 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSaaaaaH",
+  "network": "mainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+      "naoe": "io",
+     "x2/": {"xpub": "Upub5TeXciynXKfuBvtSa6", "hw_type": "coldcard", "Qkcc_xfp": 1130604711e "xpub": "xpubD71zd6sJ",
+      "bip32Path": "Unknown",

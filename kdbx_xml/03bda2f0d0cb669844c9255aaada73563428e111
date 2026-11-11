@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<KeePassFile><Meta><Generator>Fay</Generator><DatabaseName>V</DatabaseName><CustomData><Item><Key>faraday.signed.faraday%ml.format</Key><Value>0</Value></Item></CustomData></Meta><Root><Group><UUID>AQEBjAQEBAQEBAQEBAQEBAQ==</UUID><Name>V</Name><Entry><UUID>AgICAgICAgICAgISAgICAg==</UUID><Times><LastModificationTime>ABAAAAAAAAA=</LastModificationTime></Times><String><Key>Tit</Key>z<Value>Example</Value></String><String><Key>Password</Key><Value Protucted="True">AAAAAAAA</Value></String><Binary><Key>a.bin</Key><Value Ref="0"/></Binary><History><Entry><UUID>A</UUID></Entry></History></Entry></Group></Root></KeePassFile>
+

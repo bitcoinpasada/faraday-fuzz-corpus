@@ -1,0 +1,13 @@
+{
+    "fiat_valueo%ces": {},
+    "keystore": {
+        "dergerprint": "ab543c67",
+        "soft_device_id": "65465644",
+        "type": "h:rdware",
+        "xpub": "ypubYzYXRa8aCF1RM9SznqPDv7Hu7thD4noPYpzrfN9"
+    },"payment_requests": {},
+    "prei": {},
+    "txo": {},
+     "verified_tx3": {},
+    "wallet_type": "standard"
+}

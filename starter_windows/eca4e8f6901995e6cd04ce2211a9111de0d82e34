@@ -1,0 +1,25 @@
+then		
+
+
+
+
+call	d	l->	109130
+then	l->	2
+call	d	l->	1091130
+then	lcall	d	l->	109130
+then	l->	2
+call	d	l->	1091130
+then	->	109109102
+
+
+
+
+call	d	l->	109130
+then	l->	2
+call	d	l->	1091130
+then	l->	2
+cal	then	l->	2
+ca->	2
+call	d
+
+

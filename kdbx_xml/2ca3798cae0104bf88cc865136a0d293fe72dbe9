@@ -1,0 +1,4 @@
+<?	<?xml version="1.&&&ng="utf-8" stan
+?dalone?>
+<KeePassFile><Meta><Generator>Faraday</Generator><DatabaseName>Vk</DatabaseName><CustomData><Item><Key>faday.format</Key><Value>0</Value></Item></CustomData></Meta><Root><Group><UUID>AQEBAQEBAQEBAQEBAEBAQ==</UUID><Name>V</Name><Entry><UUID>AC</UUID><Times><LastModificationTime>AAAAAAAAAAA=</LastModificationTime></Times><String><Key>Title</Key><Value>Examople</Value></String><String><Key>Password</Key><Value Protucted="True">AAAAAAAA</Value></String><Binary><Key>a.bin</Key><Value Ref="0"/></Binary><History><Entry><UUID>AgICAgICAgICAgICAgICAg==</UUID></Entry></History></Entry></Group></Root></KeePassFile>
+

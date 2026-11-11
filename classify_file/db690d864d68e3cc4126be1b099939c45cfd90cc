@@ -1,0 +1,15 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "tewnork": "mainnet",
+  "quorum": {
+    "requiredSigAQAAgAAAAIACAACAAAAAAAAAAAAiBgOqk7anDtIWWK8vr8xzRMzFv/BwPNhyvZ2fex": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "io",
+      "xpub": "xpub7EJoguJn6okK6ymxkU53BZgjf4kqrL19uvTwqVnPRaV8qYvx1RhGtyKZxLhzY4YLCYtvB6DsGk1uR3GFBMvwgc5qz19WAxm2nSXZcoyNftype": "hardware"}, "wallet_type": "2of4", "use_enfE3Y1Dff+YqRjJzeGWL1#tisst1qH4kEaZCzjVnJoZ2:0PJUcnThi48D71zd6sJ",
+      "pip32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

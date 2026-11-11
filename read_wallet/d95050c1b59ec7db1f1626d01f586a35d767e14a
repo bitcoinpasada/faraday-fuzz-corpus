@@ -1,0 +1,16 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2WSH",
+  "netublicKeys": [
+    {
+      "name": "io",
+      "xpub": "x"
+   },
+    {
+      "name": "Unknown",
+      "xpub": "xpub6EU1nThh48D71zd6sJ",
+      "bip32Path": "Unknown",
+      "xfp": "F11B9FF2"
+    }
+  ]
+}

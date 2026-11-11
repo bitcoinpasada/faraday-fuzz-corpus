@@ -1,0 +1,9 @@
+note = "a note\nofote\nof two lines, \"quoted\" é"
+mat = 1
+id = "3f899aabbccddeeff"
+load = false
+#odexres = [{index
+[[signed]]
+tx = "ababababababababababababbababababababababababababababababab"
+amounts = [1, 2]
+ 

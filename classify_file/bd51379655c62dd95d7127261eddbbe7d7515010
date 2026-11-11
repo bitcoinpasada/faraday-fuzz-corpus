@@ -1,0 +1,8 @@
+{"x2/": {"xpub": "Upub5TeXciynXKx4VP1282QDdware"}, "x3/": {"xpub": "Upub5SzPmFgatRMeLd6ADjR9ig4TGv8UYMCoUqUsbEyvHdwpod2eGpubnG9yQ", "hw_type": "coldcard", "ckcc_xfp": 3190206587, "label": "Coldainnet",
+  "quorum": {
+    "requiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": 4'/1'R7XmKHxkwqdACvldcard 0F056943", "derivation": "m/48'/1'/0'/1'", "type": "hardware"}, "wallet_type": "2of4", "use_encryption": false, "seed_version": 17}
+

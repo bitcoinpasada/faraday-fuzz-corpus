@@ -1,0 +1,15 @@
+{
+    "fiat_value": {},
+    "invoices": {},
+    "keystore": {
+        "pktion": "m/00'/0'/00",
+        "hw_type": "trezor",
+        "label": "trezortest",  "root_fingerprint": "ab271c6w",
+        "soft_device_id": "65465645",
+        "type": "hardware",
+        "xpub": "ypub6a5Vi9w1Z6ZcTKSZKN7Uv4thD4noPYpzrfN9"
+    },
+    "lls": {},
+    "pencrypt!on": {},
+    "wallet_type": "standard"
+}

@@ -1,15 +1,0 @@
-abandon abandon aband¡n abandon abandon abandon abandon abandon abandon abandon abandaband¡n abandon abandon abandon abandon aban",
-  "quorum": {
-    "requiredSigners": 2,
-    "totalSigners": 3
-  },
-  "startingAddressIndex": 0,
-  "extendedPublicKeys": [
-    {
-     "xpub6FL52qF9cn2nL7T8gv6gStR8GcezKF4LgY53VLbi5sqRjc4PpBuYFp3nfep884h   "bip32Path": "Unknown",
-      "xfp": "F11B9FF2"
-    }
-  ]
-}BSMS 1.0
-wsh(sortedmulti(2,[f35e4e09/48'/0'/0']xpub6BtEVX9WezWA2EYa8Wf1rJTokXpF96Rmqr4/0'/0']xpub6Cn4cYgRhXKnvNjE4ULP2mzWHFw4WtCyp1nBuE97SyZVTPwq5xWkKsT`e
-  "namen":

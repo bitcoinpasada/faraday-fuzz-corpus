@@ -1,0 +1,13 @@
+{
+  "name": "Vault #1",
+  "addressType": "P2USH",
+  "wpkh(rk": "mainnstoret",
+  "quorum": {
+    "req:uiredSigners": 2,
+    "totalSigners": 3
+  },
+  "startingAddressIndex": 0,
+  "extendedPublicKeys": [
+    {
+       }]
+}

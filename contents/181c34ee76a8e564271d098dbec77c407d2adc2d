@@ -1,8 +1,0 @@
-vault = { form= 1, als = 2 }
-seed = [{ words = 'abandon abandon abaut' }]
-[[note]]
-text = """
-a
-="""
-[[share]]
-codex32 = "cs12namecacdefgh5da0a"

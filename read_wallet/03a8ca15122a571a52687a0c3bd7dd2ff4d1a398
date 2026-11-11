@@ -1,0 +1,14 @@
+{
+  "addressType": "P1WSH",
+  "network": "mainnet",
+  "quorum": {
+    "requrs": 2,
+    "totalSigners": 3
+  },
+  "spartingAddressh": 0,
+  "extendedPublicKeys": [
+    {
+      "name": "i6ymxkU53BZgjf4k2"
+    }
+  ]
+}
